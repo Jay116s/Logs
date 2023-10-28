@@ -1,0 +1,1433 @@
+Log uploaded on Saturday, October 28, 2023, 5:04:47 AM
+Loaded mods:
+Harmony(brrainz.harmony)[mv:1.5.0.0]: 0Harmony(2.2.2), HarmonyMod(1.5.0)
+Core(Ludeon.RimWorld): (no assemblies)
+Royalty(Ludeon.RimWorld.Royalty): (no assemblies)
+Ideology(Ludeon.RimWorld.Ideology): (no assemblies)
+Biotech(Ludeon.RimWorld.Biotech): (no assemblies)
+HugsLib(UnlimitedHugs.HugsLib)[ov:10.0.1]: 0Harmony(av:2.2.2,fv:1.2.0.1), HugsLib(av:1.0.0,fv:10.0.1)
+Character Editor(void.charactereditor): CharacterEditor(1.4.1240)
+Achtung!(brrainz.achtung)[mv:3.5.1.0]: 0Harmony(av:2.2.2,fv:1.2.0.1), 0MultiplayerAPI(av:0.3.0,fv:0.3.0), AchtungMod(3.5.1), CrossPromotion(1.0.0)
+[NL] Facial Animation - WIP(Nals.FacialAnimation): FacialAnimation(1.0.0)
+Almost There!(roolo.AlmostThere): AlmostThere(1.0.0)
+RunAndGun(roolo.RunAndGun)[ov:5.0.0]: 0Harmony(2.2.2), RunAndGun(1.0.0)
+Dubs Bad Hygiene(Dubwise.DubsBadHygiene): 0DubCore(1.0.0), 0Harmony(2.2.2), 0MultiplayerAPI(av:0.3.0,fv:0.3.0), BadHygiene(av:2.7.7273.33335,fv:1.0.0)
+Vanilla Expanded Framework(OskarPotocki.VanillaFactionsExpanded.Core): 0MultiplayerAPI(av:0.3.0,fv:0.3.0), ExplosiveTrailsEffect(1.0.7140.31563), GraphicCustomization(1.0.0), HeavyWeapons(1.0.0), KCSG(av:1.1.2,fv:23.6.6), MVCF(2.0.0.1), NoCamShakeExplosions(1.0.0), OPToxic(1.0.0), Outposts(av:3.0.0,fv:1.0.0), PipeSystem(av:1.0.1,fv:22.7.29), RecipeInheritance(1.0.1), RRO(1.0.0), SmokingGun(1.0.0), VanillaStorytellersExpanded(1.0.0), VanillaWeaponsExpandedLaser(0.0.0), VFECore(av:1.1.7,fv:1.1.9), VWEMakeshift(1.0.0)
+Vehicle Framework(SmashPhil.VehicleFramework)[mv:1.5.1381]: 0Harmony(2.2.2), AchievementsExpanded(1.4.8315.17730), SmashTools(1.0.0), UpdateLogTool(1.3.8632.32640), Vehicles(1.4.1)
+Vanilla Vehicles Expanded(OskarPotocki.VanillaVehiclesExpanded): AchievementsExpanded(1.4.8315.17730), VanillaVehiclesExpanded(1.0.0)
+Vanilla Vehicles Expanded - Tier 3(OskarPotocki.VanillaVehiclesExpandedTier3): VanillaVehiclesExpanded-Tier3(1.0.0)
+Vanilla Books Expanded(VanillaExpanded.VBooksE): VanillaBooksExpanded(1.0.0)
+Vanilla Cooking Expanded(VanillaExpanded.VCookE): AchievementsExpanded(1.4.8315.17730), VanillaCookingExpanded(1.0.0)
+Vanilla Ideology Expanded - Memes and Structures(VanillaExpanded.VMemesE): VanillaMemesExpanded(1.0.0)
+Alpha Memes(Sarg.AlphaMemes): AlphaMemes(1.0.0)
+Vanilla Furniture Expanded - Power(VanillaExpanded.VFEPower): VanillaPowerExpanded(1.0.0)
+Vanilla Chemfuel Expanded(VanillaExpanded.VChemfuelE): VCHE(1.0.5)
+Clean Pathfinding 2(Owlchemist.CleanPathfinding): CleanPathfinding(av:2.0.41,fv:2.0.41)
+Comigo's Garden Beds(ComigoGames.Farming.Pots): (no assemblies)
+Door Mat(dracoix.doormat.r12a): RimWorld-DoorMat(1.0.0)
+Hospitality(Orion.Hospitality)[mv:1.4.0.11]: 0MultiplayerAPI(av:0.3.0,fv:0.3.0), Hospitality(av:1.0.0,fv:1.4.0.11)
+Vanilla Furniture Expanded(VanillaExpanded.VFECore)[mv:1.1.0]: VanillaFurnitureEC(1.4.0)
+Vanilla Furniture Expanded - Props and Decor(VanillaExpanded.VFEPropsandDecor): (no assemblies)
+Vanilla Furniture Expanded - Security(VanillaExpanded.VFESecurity)[mv:1.1.1.0]: VFESecurity(1.1.2.2)
+Guns Galore - Core(cgf1.gunsgalorecore): (no assemblies)
+Guns Galore - American Civil War(cgf1.gunsgalore.americancivilwar.i): (no assemblies)
+Guns Galore - Cold War (UK)(cgf1.gunsgalore.coldwar.uk): (no assemblies)
+Guns Galore - Industrial Age I(cgf1.gunsgalore.industrialage.i): (no assemblies)
+Hospitality: Casino(Adamas.HospitalityCasino): HospitalityCasino(1.0.0)
+Vanilla Brewing Expanded(VanillaExpanded.VBrewE): VanillaBrewingExpanded(1.0.0)
+Vanilla Furniture Expanded - Architect(VanillaExpanded.VFEArchitect): VFEArchitect(1.0.0)
+Vanilla Factions Expanded - Settlers(OskarPotocki.VanillaFactionsExpanded.SettlersModule)[mv:1.2.0.0]: VFE_Settlers(1.0.0), Warmup(1.0.0)
+LWM's Deep Storage(LWM.DeepStorage)[mv:1.4.1.1]: IHoldMultipleThings(av:0.1.0,fv:1.0.0), LWM.DeepStorage(1.0.0.40363)
+Pick Up And Haul(Mehni.PickUpAndHaul): IHoldMultipleThings(av:0.1.0,fv:1.0.0), PickUpAndHaul(1.0.0)
+Vanilla Weapons Expanded(VanillaExpanded.VWE)[mv:1.0.5.0]: (no assemblies)
+Raids For Me(aRandomKiwi.RaidsForMe): RaidsForMe(1.0.6)
+Vanilla Traits Expanded(VanillaExpanded.VanillaTraitsExpanded): VanillaTraitsExpanded(1.0.0.1)
+Vanilla Textures Expanded - [NL] Facial Animation(VanillaExpanded.VTEXE.FacialAnims): (no assemblies)
+Vanilla Apparel Expanded(VanillaExpanded.VAPPE)[mv:1.2.0]: AchievementsExpanded(1.4.8315.17730), VanillaApparelExpanded(1.0.0)
+Vanilla Brewing Expanded - Coffees and Teas(VanillaExpanded.VBrewECandT): (no assemblies)
+Vanilla Furniture Expanded - Production(VanillaExpanded.VFEProduction)[mv:1.0.3.0]: (no assemblies)
+Vanilla Armour Expanded(VanillaExpanded.VARME)[mv:1.2.0]: (no assemblies)
+Vanilla Apparel Expanded — Accessories(VanillaExpanded.VAEAccessories): VAE Accessories(1.0.0)
+Salted Meat 2.0(Argon.SaltedMeatRemake): (no assemblies)
+Appliances Expanded(scpchemfuel.appliances): AppliancesExpanded(1.0.0), VChemEAppliances(1.0.0)
+Vanilla Weapons Expanded - Laser(VanillaExpanded.VWEL)[mv:1.1.0]: (no assemblies)
+Vanilla Weapons Expanded - Coilguns(VanillaExpanded.VWEC): (no assemblies)
+Vanilla Expanded - Ideology Patches(OskarPotocki.VanillaExpanded.IdeologyPatches): VEIP(1.0.0)
+Vanilla Expanded - Royalty Patches(OskarPotocki.VanillaExpanded.RoyaltyPatches)[mv:1.1.2.0]: (no assemblies)
+Simple sidearms(PeteTimesSix.SimpleSidearms): SimpleSidearms(1.4.6)
+SimpleStairs(gomi.simplestairs): (no assemblies)
+Snap Out!(weilbyte.snapout): 0MultiplayerAPI(av:0.3.0,fv:0.3.0), SnapOut(av:0.8.0,fv:0.8.0)
+Therapy(Orion.Therapy)[mv:1.4.0.1]: Therapy(av:1.0.0,fv:1.4.0.1)
+Interaction Bubbles(Jaxe.Bubbles): Bubbles(2.5.0)
+SpeakUp(JPT.speakup): SpeakUp(av:0.8.0,fv:0.8.0)
+Stonecutting Extended(Scherub.StonecuttingExtended): StonecuttingExtended(1.0.0)
+Vanilla Backstories Expanded(VanillaExpanded.VanillaBackstoriesExpanded): (no assemblies)
+Vanilla Factions Expanded - Empire(OskarPotocki.VFE.Empire): VFEEmpire(1.0.0)
+Vanilla Plants Expanded(VanillaExpanded.VPlantsE): VanillaPlantsExpanded(1.0.0)
+Vanilla Plants Expanded - More Plants(VanillaExpanded.VPlantsEMore): VanillaPlantsExpandedMorePlants(1.0.0)
+Vanilla Weapons Expanded - Non-Lethal(VanillaExpanded.VWENL): VanillaWeaponsExpandedNonLethal(1.0.0)
+Alpha Genes(sarg.alphagenes): AlphaGenes(1.0.0)
+Vanilla Factions Expanded - Ancients(VanillaExpanded.VFEA): VFEAncients(1.0.0)
+Victorian decorations(MOs.Victoriandecorations): (no assemblies)
+
+Active Harmony patches:
+AddictionUtility.CanBingeOnNow: PRE: Hospitality.Patches.AddictionUtility_Patch+CanBingeOnNow.Prefix
+Alert_BrawlerHasRangedWeapon.GetReport: PRE: MVCF.Features.PatchSets.PatchSet_Brawlers.GetReport_Prefix
+Alert_CaravanIdle.get_IdleCaravans: post: Vehicles.CaravanHandling.IdleVehicleCaravans
+Alert_HunterLacksRangedWeapon.get_HuntersWithoutRangedWeapon: post: PeteTimesSix.SimpleSidearms.Intercepts.Alert_HunterLacksRangedWeapon_HuntersWithoutRangedWeapon_Postfix.HuntersWithoutRangedWeapon
+ApparelGraphicRecordGetter.TryGetGraphicApparel: TRANS: VFECore.Patch_ApparelGraphicRecordGetter_TryGetGraphicApparel_Transpiler.Transpiler
+Area.Delete: PRE: CleanPathfinding.Patch_Area_Delete.Prefix
+Area.Set: post: CleanPathfinding.Patch_Area_Set.Postfix
+AreaManager.UpdateAllAreasLinks: PRE: DubsBadHygiene.Patches.HarmonyPatches+H_UpdateAllAreasLinks.Prefix
+Area_Allowed.SetLabel: PRE: CleanPathfinding.Patch_Area_Allowed_SetLabel.Prefix post: CleanPathfinding.Patch_Area_Allowed_SetLabel.Postfix
+ArmorUtility.ApplyArmor: TRANS: VFECore.Patch_ArmorUtility+ApplyArmor.Transpiler
+ArmorUtility.GetPostArmorDamage: PRE: VFECore.Patch_ArmorUtility+GetPostArmorDamage.Prefix post: VFEAncients.PowerWorker_Blunt.ChangeType
+AttackTargetFinder.BestAttackTarget: TRANS: VFESecurity.Patch_AttackTargetFinder+manual_BestAttackTarget.Transpiler
+AttackTargetFinder.BestShootTargetFromCurrentPosition: TRANS: VFESecurity.Patch_AttackTargetFinder+BestShootTargetFromCurrentPosition.Transpiler
+AutoUndrafter.AutoUndraftTick: post: PeteTimesSix.SimpleSidearms.Intercepts.AutoUndrafter_AutoUndraftTick_Postfix.AutoUndraftTick
+BackCompatibility.BackCompatibleDefName: PRE: DubsBadHygiene.Patches.HarmonyPatches+H_BackCompatibleDefName.Prefix
+BackCompatibility.GetBackCompatibleType: PRE: DubsBadHygiene.Patches.HarmonyPatches+H_GetBackCompatibleType.Prefix
+BackstoryDef.FullDescriptionFor: TRANS: VFECore.BackstoryDef_FullDescriptionFor_Patch.Transpiler
+BaseGenUtility.TryRandomInexpensiveFloor: post: AlphaMemes.AlphaMemes_BaseGenUtility_TryRandomInexpensiveFloor_Patch.RemoveAlphaMemesFloorsFromRuins
+BeachMaker.Init: TRANS: Vehicles.MapHandling.BeachMakerTranspiler
+BestCaravanPawnUtility.FindBestNegotiator: PRE: Vehicles.CaravanHandling.FindBestNegotiatorInVehicle
+Bill.PawnAllowedToStartAnew: PRE: VanillaTraitsExpanded.PawnAllowedToStartAnew_Patch.Prefix
+BreachingUtility.FindVerbToUseForBreaching: post: MVCF.Features.PatchSets.PatchSet_Base.FindVerbToUseForBreaching
+BuildCopyCommandUtility.BuildCopyCommand: PRE: Vehicles.Gizmos.VehicleMaterialOnCopyBuildGizmo
+BuildableDef.ForceAllowPlaceOver: post: DubsBadHygiene.Patches.HarmonyPatches_Plumbing.ForceAllowPlaceOver_Postfix
+Building.DeSpawn: PRE: [800]LWM.DeepStorage.Patch_Building_DeSpawn_For_Building_Storage.Prefix
+Building.Destroy: PRE: VanillaFurnitureExpanded.Patch_BuildingDestroy.Prefix
+Building.PreApplyDamage: post: VFESecurity.Patch_Building+PreApplyDamage.Postfix
+Building_Bed.GetGizmos: post: Hospitality.Patches.Building_Bed_Patch+GetGizmos.Postfix
+Building_Bed.set_ForPrisoners: post: Hospitality.Patches.Building_Bed_Patch+ForPrisoners.Postfix
+Building_CommsConsole.GetCommTargets: post: VFECore.Building_CommsConsole_GetCommTargets_Patch.Postfix
+Building_Door.DeSpawn: PRE: CleanPathfinding.Patch_Building_DoorDeSpawn.Prefix
+Building_Door.GetGizmos: post: CleanPathfinding.Patch_Building_Door_GetGizmos.Postfix
+Building_Door.PawnCanOpen: PRE: Hospitality.Patches.Building_Door_Patch+PawnCanOpen.Prefix
+Building_NutrientPasteDispenser.TryDispenseFood: post: AlphaMemes.AlphaMemes_Building_NutrientPasteDispenser_TryDispenseFood_Patch.ApplyNutrientPasteStyle
+Building_PlantGrower.CanAcceptSowNow: post: DubsBadHygiene.Patches.HarmonyPatches_Plumbing.PlantGrowerCanAcceptSowNow_Postfix
+Building_PlantGrower.TickRare: PRE: DubsBadHygiene.Patches.HarmonyPatches_Plumbing.PlantGrowerTickRare_Prefix
+Building_Storage.<GetGizmos>d__43.MoveNext: TRANS: LWM.DeepStorage.Patch_Building_Storage_Gizmos.Transpiler
+Building_Storage.Notify_ReceivedThing: post: LWM.DeepStorage.PatchDisplay_Notify_ReceivedThing.Postfix
+Building_Storage.SpawnSetup: post: LWM.DeepStorage.PatchDisplay_SpawnSetup.Postfix
+Building_Trap.Spring: TRANS: VFESecurity.Patch_Building_Trap+Spring.Transpiler
+Building_TurretGun.BurstCooldownTime: post: Warmup.Patch_TurretGun.BurstCooldownTime_RapidFire_Postfix
+Building_TurretGun.DrawExtraSelectionOverlays: post: VFECore.Building_TurretGun_DrawExtraSelectionOverlays_Patch.Postfix, VFESecurity.Patch_Building_TurretGun+DrawExtraSelectionOverlays.Postfix TRANS: VFECore.Building_TurretGun_DrawExtraSelectionOverlays_Transpiler.Transpiler
+Building_TurretGun.IsValidTarget: post: VFECore.Building_TurretGun_IsValidTarget_Patch.Postfix
+Building_TurretGun.OrderAttack: post: VFESecurity.Patch_Building_TurretGun+OrderAttack.Postfix
+Building_TurretGun.TryStartShootSomething: PRE: VFEAncients.HarmonyPatches.PointDefensePatches.TryShootProjectile, VFESecurity.Patch_Building_TurretGun+TryStartShootSomething.Prefix
+Building_TurretGun.get_AttackVerb: PRE: VFEAncients.HarmonyPatches.PointDefensePatches.OverrideAttackVerb
+CameraJumper.GetAdjustedTarget: post: Vehicles.WorldObjects.GetAdjustedTargetForAerialVehicle
+CameraJumper.TryShowWorld: PRE: Vehicles.WorldHandling.ForcedTargetingDontShowWorld
+Caravan.AddPawn: post: Vehicles.CaravanHandling.AddPawnInVehicleCaravan
+Caravan.ContainsPawn: post: Vehicles.CaravanHandling.ContainsPawnInVehicle
+Caravan.GetGizmos: post: VFECore.Abilities.Caravan_GetGizmos_Patch.Postfix, AlmostThere.Harmony.Caravan_GetGizmos.Postfix
+Caravan.IsOwner: post: Vehicles.CaravanHandling.IsOwnerOfVehicle
+Caravan.RemovePawn: post: Vehicles.CaravanHandling.RemovePawnInVehicleCaravan
+Caravan.get_AllOwnersDowned: PRE: Vehicles.CaravanHandling.AllOwnersDownedVehicle
+Caravan.get_AllOwnersHaveMentalBreak: PRE: Vehicles.CaravanHandling.AllOwnersMentalBreakVehicle
+Caravan.get_NightResting: PRE: Vehicles.CaravanHandling.NoRestForVehicles post: AlmostThere.Harmony.Caravan_get_NightResting.Postfix
+Caravan.get_PawnsListForReading: post: Vehicles.CaravanHandling.InternalPawnsIncludedInList
+Caravan.get_TicksPerMove: PRE: Vehicles.CaravanHandling.VehicleCaravanTicksPerMove
+Caravan.get_TicksPerMoveExplanation: PRE: Vehicles.CaravanHandling.VehicleCaravanTicksPerMoveExplanation
+CaravanArrivalAction_OfferGifts.Arrived: PRE: Vehicles.CaravanHandling.UnloadVehicleOfferGifts
+CaravanArrivalAction_Trade.CanTradeWith: post: Vehicles.CaravanHandling.NoTradingUndocked
+CaravanArrivalAction_VisitEscapeShip.DoArrivalAction: TRANS: Vehicles.CaravanHandling.ShipsVisitEscapeShipTranspiler
+CaravanArrivalAction_VisitSite.DoEnter: TRANS: Vehicles.CaravanHandling.DoEnterWithShipsTranspiler
+CaravanEnterMapUtility.Enter: PRE: PeteTimesSix.SimpleSidearms.Intercepts.CaravanEnterMapUtility_Enter.Prefix, Vehicles.CaravanHandling.EnterMapVehiclesCatchAll2 post: PeteTimesSix.SimpleSidearms.Intercepts.CaravanEnterMapUtility_Enter.Postfix
+CaravanEnterMapUtility.Enter: PRE: Vehicles.CaravanHandling.EnterMapVehiclesCatchAll1
+CaravanExitMapUtility.AddCaravanExitTaleIfShould: post: VanillaMemesExpanded.VanillaMemesExpanded_CaravanExitMapUtility_AddCaravanExitTaleIfShould_Patch.SetPawnCaravanTimerToZero
+CaravanExitMapUtility.CanExitMapAndJoinOrCreateCaravanNow: post: Vehicles.CaravanFormation.CanVehicleExitMapAndJoinOrCreateCaravanNow
+CaravanExitMapUtility.ExitMapAndJoinOrCreateCaravan: PRE: Vehicles.CaravanFormation.ExitMapAndJoinOrCreateVehicleCaravan
+CaravanFormingUtility.GetGizmos: post: Vehicles.Gizmos.GizmosForVehicleCaravans
+CaravanFormingUtility.IsFormingCaravan: PRE: Vehicles.CaravanFormation.IsFormingCaravanVehicle
+CaravanInventoryUtility.FindPawnToMoveInventoryTo: PRE: Vehicles.CaravanHandling.FindVehicleToMoveInventoryTo
+CaravanNeedsTabUtility.DoRows: PRE: Vehicles.CaravanHandling.NoVehiclesNeedNeeds
+CaravanNeedsTabUtility.GetSize: PRE: Vehicles.CaravanHandling.NoVehiclesNeedNeeds
+CaravanTendUtility.CheckTend: PRE: Vehicles.CaravanHandling.CheckTendInVehicles
+CaravanTicksPerMoveUtility.GetTicksPerMove: post: VanillaTraitsExpanded.GetTicksPerMove_Patch.Postfix
+CaravanUIUtility.AddPawnsSections: post: VFE.Mechanoids.CaravanUIUtility_AddPawnsSections_Patch.Postfix
+CaravanUtility.GetCaravan: PRE: Vehicles.CaravanHandling.GetParentCaravan
+CaravanUtility.RandomOwner: PRE: Vehicles.CaravanHandling.RandomVehicleOwner
+Caravan_CarryTracker.WantsToBeCarried: post: VFEAncients.HarmonyPatches.AbilityPatches.WantsToBeCarriedPostfix
+Caravan_NeedsTracker.TrySatisfyPawnNeeds: PRE: DubsBadHygiene.Patches.HarmonyPatches+Harmony_TrySatisfyPawnNeeds.Prefix, Vehicles.CaravanHandling.TrySatisfyVehiclePawnsNeeds post: VFE.Mechanoids.TrySatisfyPawnNeeds_Patch.Postfix
+Caravan_PathFollower.StartPath: PRE: Vehicles.WorldPathing.StartVehicleCaravanPath
+Caravan_TraderTracker.ColonyThingsWillingToBuy: post: PeteTimesSix.SimpleSidearms.Intercepts.Caravan_TraderTracker_ColonyThingsWillingToBuy.Postfix
+CastPositionFinder.TryFindCastPosition: TRANS: VFESecurity.Patch_CastPositionFinder+TryFindCastPosition.Transpiler
+CellInspectorDrawer.DrawThingRow: PRE: Vehicles.Rendering.CellInspectorDrawVehicle
+CharacterCardUtility.DoLeftSection: TRANS: VFEEmpire.HarmonyPatches.Patch_DoLeftSection.Transpiler
+CharacterCardUtility.DrawCharacterCard: TRANS: VFEEmpire.HarmonyPatches.Patch_StripTitles.Transpiler
+CharacterCardUtility.GetWorkTypeDisableCauses: post: VFEAncients.HarmonyPatches.PowerPatches.AddCauseDisable TRANS: VFEEmpire.HarmonyPatches.Patch_Conceit+Work.Transpiler
+CharacterCardUtility.GetWorkTypeDisabledCausedBy: TRANS: VFEAncients.HarmonyPatches.PowerPatches.AddCauseDisableExplain
+CollectionsMassCalculator.Capacity: TRANS: Vehicles.CaravanHandling.PawnCapacityInVehicleTranspiler
+CollectionsMassCalculator.MassUsage: TRANS: Vehicles.CaravanHandling.IgnorePawnGearAndInventoryMassTranspiler
+ColonistBar.CheckRecacheEntries: TRANS: Vehicles.Rendering.CheckRecacheAerialVehicleEntriesTranspiler
+ColonistBarColonistDrawer.DrawIcons: post: Vehicles.Rendering.DrawIconsVehicles
+Command.GizmoOnGUIInt: TRANS: MVCF.Features.Feature_IntegratedToggle.GizmoOnGUI_Transpile
+Command_SetPlantToGrow.IsPlantAvailable: post: VanillaMemesExpanded.VanillaMemesExpanded_Command_SetPlantToGrow_IsPlantAvailable_Patch.MakeCocoaBushNotSowable
+CompArt.JustCreatedBy: post: VFEEmpire.HarmonyPatches.CompArt_JustCreatedBy_Patch.Postfix
+CompBiosculpterPod.CycleCompleted: PRE: DubsBadHygiene.Patches.HarmonyPatches+H_CycleCompleted.Prefix
+CompBladelinkWeapon.Notify_KilledPawn: post: VFEEmpire.HarmonyPatches.Patch_HonorsMisc.Postfix_KilledPawn
+CompCauseGameCondition_ForceWeather.<>c.<RandomizeSettings>b__6_0: post: VFECore.Patch_RandomizeSettings.Postfix
+CompDeepDrill.CanDrillNow: post: AppliancesExpanded.CompChemfuelDeepDrill+CompDeepDrill_CanDrillNow_Patch.Postfix
+CompDeepDrill.DrillWorkDone: post: AppliancesExpanded.CompChemfuelDeepDrill+CompDeepDrill_DrillWorkDone_Patch.Postfix
+CompDrug.PostIngested: post: VanillaMemesExpanded.VanillaMemesExpanded_CompDrug_PostIngested_Patch.DetectDrinkConsumed
+CompEquippable.GetVerbsCommands: PRE: MVCF.Features.Feature_ExtraEquipmentVerbs.GetVerbsCommands_Prefix post: VFECore.Patch_CompEquippable+GetVerbsCommands.Postfix
+CompFueledTravel.get_FuelEfficiency: post: VanillaVehiclesExpanded.VanillaVehiclesExpanded_CompFueledTravel_FuelEfficiency_Patch.Postfix
+CompGlower.ReceiveCompSignal: post: PipeSystem.ReceiveCompSignal_Postfix.Postfix
+CompGlower.SetGlowColorInternal: post: VanillaFurnitureExpanded.CompGlowerExtended+CompGlower_SetGlowColorInternal_Patch.Postfix
+CompGlower.get_ShouldBeLitNow: post: PipeSystem.ShouldBeLitNow_Postfix.Postfix
+CompHackable.Hack: PRE: VFEAncients.PowerWorker_Hack.InstantHack
+CompRefuelable.ConsumeFuel: TRANS: VFEEmpire.HarmonyPatches.Patch_CompRefuelable_ConsumeFuel.Transpiler
+CompReloadable.UniqueVerbOwnerID: PRE: VanillaVehiclesExpanded.CompReloadableWithVerbs+CompReloadable_UniqueVerbOwnerID_Patch.Prefix
+CompReloadable.get_Tools: PRE: VanillaVehiclesExpanded.CompReloadableWithVerbs+CompReloadable_Tools_Patch.Prefix
+CompReloadable.get_VerbProperties: PRE: VanillaVehiclesExpanded.CompReloadableWithVerbs+CompReloadable_VerbProperties_Patch.Prefix
+CompRottable.get_Active: PRE: VanillaVehiclesExpanded.CompRottable_Active_Patch.Prefix
+CompSidearmMemory.GetMemoryCompForPawn: PRE: VFE.Mechanoids.HarmonyPatches.SimpleSidearmsPatch.GetMemoryCompForPawnPrefix
+CompUseEffect_FinishRandomResearchProject.CanBeUsedBy: post: VanillaStorytellersExpanded.Patch_CompUseEffect_FinishRandomResearchProject+CanBeUsedBy.Postfix
+CompUseEffect_FinishRandomResearchProject.DoEffect: post: VanillaStorytellersExpanded.Patch_CompUseEffect_FinishRandomResearchProject+DoEffect.Postfix
+CompressibilityDeciderUtility.IsSaveCompressible: post: LWM.DeepStorage.Patch_IsSaveCompressible.Postfix
+Construction.CompleteConstructionVehicle: PRE: VanillaVehiclesExpanded.Construction_CompleteConstructionVehicle_Patch.Prefix
+Corpse.GetInspectString: post: VFEAncients.PowerWorker_Resurrect.AddResInfo
+Corpse.GiveObservedHistoryEvent: post: AlphaMemes.Corpse_GiveObservedHistoryEvent.Postfix
+Corpse.TickRare: post: VFEAncients.PowerWorker_Resurrect.CorpseTick
+CostListCalculator.CostListAdjusted: PRE: VFEArchitect.ArchitectMod.AdjustStuff
+CoverUtility.BaseBlockChance: post: VFESecurity.Patch_CoverUtility+BaseBlockChance_Thing.Postfix
+CoverUtility.CalculateCoverGiverSet: post: VFESecurity.Patch_CoverUtility+CalculateCoverGiverSet.Postfix
+CoverUtility.CalculateOverallBlockChance: post: VFESecurity.Patch_CoverUtility+CalculateOverallBlockChance.Postfix
+DamageWorker.ExplosionDamageThing: PRE: VFEAncients.PowerWorker_NoExplode.Immunity post: Vehicles.Combat.VehicleMultipleExplosionInstances TRANS: Vehicles.Combat.VehicleExplosionDamageTranspiler
+DamageWorker_AddInjury.Apply: post: VanillaMemesExpanded.VanillaMemesExpanded_DamageWorker_AddInjury_Apply_Patch.DetectIfDamagedInnocent, AlphaMemes.AlphaMemes_DamageWorker_AddInjury_Apply_Patch.SendHistoryIfMelee
+DamageWorker_AddInjury.ApplyDamageToPart: PRE: VanillaStorytellersExpanded.Patch_ApplyDamageToPart.Prefix, VanillaTraitsExpanded.Patch_ApplyDamageToPart.Prefix
+DamageWorker_AddInjury.ApplyToPawn: TRANS: VanillaGenesExpanded.VanillaGenesExpanded_DamageWorker_AddInjury_ApplyToPawn_Patch.Transpiler
+DamageWorker_AddInjury.ChooseHitPart: PRE: VFEAncients.PowerWorker_VitalHits.ChooseHitPart_Prefix
+DamageWorker_Bite.ChooseHitPart: PRE: VFEAncients.PowerWorker_VitalHits.ChooseHitPart_Prefix
+DamageWorker_Blunt.ChooseHitPart: PRE: VFEAncients.PowerWorker_VitalHits.ChooseHitPart_Prefix
+DamageWorker_Cut.ChooseHitPart: PRE: VFEAncients.PowerWorker_VitalHits.ChooseHitPart_Prefix
+DamageWorker_Scratch.ChooseHitPart: PRE: VFEAncients.PowerWorker_VitalHits.ChooseHitPart_Prefix
+DamageWorker_Stab.ChooseHitPart: PRE: VFEAncients.PowerWorker_VitalHits.ChooseHitPart_Prefix
+DebugToolsSpawning.SpawnPawn: post: Vehicles.Debug.DebugHideVehiclesFromPawnSpawner
+DebugWindowsOpener.DevToolStarterOnGUI: PRE: VFECore.DebugWindowsOpener_DevToolStarterOnGUI_Patch.Prefix TRANS: HugsLib.Patches.DevToolStarterOnGUI_Patch.ExtendButtonsWindow
+DebugWindowsOpener.DrawButtons: post: SmashTools.UnitTesting.DrawDebugWindowButton TRANS: HugsLib.Patches.DebugWindowsOpener_Patch.DrawAdditionalButtons, VFECore.DebugWindowsOpener_DrawButtons_Patch.Transpiler
+DeepResourceGrid.DeepResourcesOnGUI: post: VFECore.Patch_DeepResourceGrid_DeepResourcesOnGUI.Postfix
+DeepResourceGrid.GetCellExtraColor: post: VFECore.Patch_DeepResourceGrid_GetCellExtraColor.PostFix
+Def.SpecialDisplayStats: post: VFECore.Def_SpecialDisplayStats_Patch.Postfix
+DefGenerator.GenerateImpliedDefs_PreResolve: PRE: Vehicles.VehicleHarmonyOnMod.ImpliedDefGeneratorVehicles
+DesignationCategoryDef.get_AllIdeoDesignators: post: AlphaMemes.FuneralFramework_DesignationCategoryDef_AllIdeoDesignators_Postfix.Postfix
+DesignationCategoryDef.get_ResolvedAllowedDesignators: post: PipeSystem.ResolvedAllowedDesignators_Patch.Postfix, Vehicles.Construction.RemoveDisabledVehicles
+Designator_Build.GizmoOnGUI: PRE: Vehicles.Gizmos.VehicleMaterialOnBuildGizmo
+Designator_Build.ProcessInput: TRANS: VFEArchitect.ArchitectMod.ProcessInputTranspiler
+Designator_Build.SelectedUpdate: post: PipeSystem.Designator_Build_Patch.Postfix
+Designator_Build.get_Visible: post: VFEArchitect.ArchitectMod.RequireGodMode
+Designator_Deconstruct.CanDesignateThing: post: Vehicles.Construction.AllowDeconstructVehicle
+Designator_Install.SelectedUpdate: post: PipeSystem.Designator_Install_Patch.Postfix
+Dialog_AdvancedGameConfig.DoWindowContents: post: CharacterEditor.CEditor.AddMapSizeSlider
+Dialog_BeginRitual.CalculatePawnPortraitIcons: TRANS: AlphaMemes.FuneralFramework_Dialog_BeginRitual_CalculatePawnPortraitIcons_Patch.Transpiler
+Dialog_BeginRitual.DoWindowContents: post: AlphaMemes.Dialog_BeginRitual_DoWindowContents_Patch.Postfix
+Dialog_ChooseMemes.GetFirstIncompatibleMemePair: post: VanillaMemesExpanded.VanillaMemesExpanded_Dialog_ChooseMemes_GetFirstIncompatibleMemePair_Patch.DetectIfRequiredMeme
+Dialog_ChooseMemes.TryAccept: PRE: VanillaMemesExpanded.VanillaMemesExpanded_Dialog_ChooseMemes_TryAccept_Patch.DetectIfPairedMeme
+Dialog_ChooseMemes.get_MemeCountRangeAbsolute: post: VanillaMemesExpanded.VanillaMemesExpanded_Dialog_ChooseMemes_MemeCountRangeAbsolute_Patch.SetMaxToOptions
+Dialog_CreateXenotype.DrawGene: PRE: VanillaGenesExpanded.VanillaGenesExpanded_Dialog_CreateXenotype_DrawGene_Patch.Prefix
+Dialog_FormCaravan.TryReformCaravan: PRE: Vehicles.CaravanHandling.ConfirmLeaveVehiclesOnReform
+Dialog_InfoCard..ctor: post: VFEEmpire.HarmonyPatches.Patch_RoyalTitleIcons.Dialog_InfoCard_Postfix
+Dialog_InfoCard.DoWindowContents: PRE: Vehicles.Gizmos.VehicleInfoCardOverride
+Dialog_InfoCard.FillCard: PRE: AnimalBehaviours.VanillaExpandedFramework_Dialog_InfoCard_FillCard_Patch.Prefix
+Dialog_ManageAreas.DoAreaRow: TRANS: Vehicles.Extra.VehicleAreaRowTranspiler
+Dialog_Options.DoModOptions: TRANS: HugsLib.Patches.DialogOptions_DoModOptions_Patch.InterceptWindowOpening
+Dialog_Options.PostOpen: post: HugsLib.Patches.DialogOptions_PostOpen_Patch.InjectHugsLibEntries
+Dialog_SplitCaravan.AddItemsToTransferables: post: PeteTimesSix.SimpleSidearms.Intercepts.Dialog_SplitCaravan_AddItemsToTransferables.Postfix
+Dialog_SplitCaravan.TrySplitCaravan: PRE: PeteTimesSix.SimpleSidearms.Intercepts.Dialog_SplitCaravan_TrySplitCaravan.Prefix post: PeteTimesSix.SimpleSidearms.Intercepts.Dialog_SplitCaravan_TrySplitCaravan.Postfix
+Dialog_Trade..ctor: post: Vehicles.WorldHandling.SetupPlayerAerialVehicleVariables
+Dialog_Trade.CountToTransferChanged: post: Vehicles.CaravanHandling.AerialVehicleCountPawnsToTransfer
+Dialog_Trade.DoWindowContents: PRE: Vehicles.WorldHandling.DrawAerialVehicleInfo
+DirectXmlLoader.DefFromNode: PRE: DubsBadHygiene.Patches.HarmonyPatches+H_DefFromNode.Prefix post: SmashTools.Xml.XmlParseHelper.ReadCustomAttributesOnDef
+DirectXmlToObject.GetFieldInfoForType: post: SmashTools.Xml.XmlParseHelper.ReadCustomAttributes
+DrugPolicy.ExposeData: PRE: VFECore.Patch_DrugPolicy+ExposeData.Prefix
+EditWindow_Log.DoMessageDetails: TRANS: SmashTools.SmashLog.RemoveRichTextTranspiler
+EditWindow_Log.DoMessagesListing: PRE: HugsLib.Patches.EditWindow_Log_Patch.ExtraLogWindowButtons
+ExpectationsUtility.CurrentExpectationFor: post: VanillaMemesExpanded.VanillaMemesExpanded_ExpectationsUtility_CurrentExpectationFor_Patch.LowerOrDecreaseExpectation, Hospitality.Patches.ExpectationsUtility_Patch+CurrentExpectationForPawn.Postfix TRANS: VFEEmpire.HarmonyPatches.Patch_Conceit.Expectations
+Explosion.AffectCell: PRE: Vehicles.Combat.AffectVehicleInCell
+Extensions.HasRangedWeapon: post: MVCF.ModCompat.PatchSets.PatchSet_RunAndGun.RunAndGunHasRangedWeapon
+Extensions.IsValidSidearmsCarrier: post: VFE.Mechanoids.HarmonyPatches.SimpleSidearmsPatch.IsValidSidearmsCarrierPostfix
+Faction.Notify_MemberExitedMap: PRE: Hospitality.Patches.Faction_Patch+Notify_MemberExitedMap.Prefix
+Faction.TryAffectGoodwillWith: PRE: VanillaTraitsExpanded.TryAffectGoodwillWith_Patch.Prefix
+Faction.TryMakeInitialRelationsWith: post: VFECore.Faction_TryMakeInitialRelationsWith_Patch.Postfix
+Faction.get_NaturalGoodwill: post: VanillaStorytellersExpanded.Patch_NaturalGoodwill.Postfix
+FactionDialogMaker.FactionDialogFor: post: aRandomKiwi.RFM.FactionDialogMaker_Patch+FactionDialogFor.Listener, Hospitality.Patches.FactionDialogMaker_Patch+FactionDialogFor.Postfix
+FactionGenerator.GenerateFactionsIntoWorld: TRANS: VanillaStorytellersExpanded.Patch_FactionGenerator+GenerateFactionsIntoWorld.Transpiler
+FactionUtility.IsPoliticallyProper: post: Hospitality.Patches.FactionUtility_Patch+IsPoliticallyProper.Postfix
+FallingStructureArrival.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+FertilityGrid.CalculateFertilityAt: post: DubsBadHygiene.Patches.HarmonyPatches_Fertilizer+H_CalculateFertilityAt.PostFix
+FleshTypeDef.ChooseWoundOverlay: post: VanillaGenesExpanded.VanillaGenesExpanded_FleshTypeDef_ChooseWoundOverlay_Patch.Postfix
+FloatMenuMakerMap.AddDraftedOrders: PRE: VFE.Mechanoids.HarmonyPatches.AddDraftedOrders_Patch.Prefix TRANS: AnimalBehaviours.FloatMenuMakerMap_Patch.Transpiler, MVCF.Features.Feature_ExtraEquipmentVerbs.CheckForMelee
+FloatMenuMakerMap.AddHumanlikeOrders: PRE: VanillaWeaponsExpanded.FloatMenuMakerMap_AddHumanlikeOrders_Patch.Prefix post: VanillaWeaponsExpanded.FloatMenuMakerMap_AddHumanlikeOrders_Patch.Postfix, VFECore.Patch_FloatMenuMakerMap+AddHumanlikeOrders_Fix.Postfix, PeteTimesSix.SimpleSidearms.Intercepts.FloatMenuMakerMap_AddHumanLikeOrders_Postfix.AddHumanlikeOrders, VFEEmpire.HarmonyPatches.Patch_AddHumanlikeOrders.Postfix, VFEAncients.HarmonyPatches.BuildingPatches.AddCarryJobs, HeavyWeapons.Patch_FloatMenuMakerMap+AddHumanlikeOrders_Fix.Postfix, AlphaMemes.AlphaMemes_FloatMenuMakerMap_AddHumanlikeOrders_Patch.AddDragRelicToAltar, MVCF.Features.PatchSets.PatchSet_Brawlers.AddHumanlikeOrders_Postfix TRANS: Vehicles.CaravanFormation.AddHumanLikeOrdersLoadVehiclesTranspiler
+FloatMenuMakerMap.AddJobGiverWorkOrders: PRE: VFEAncients.PowerWorker_NoPrioritize.StoreOpts, AchtungMod.FloatMenuMakerMap_AddJobGiverWorkOrders_Patch.Prefix post: VFEAncients.PowerWorker_NoPrioritize.DisableOpts, AchtungMod.FloatMenuMakerMap_AddJobGiverWorkOrders_Patch.Postfix TRANS: AchtungMod.FloatMenuMakerMap_AddJobGiverWorkOrders_Patch.Transpiler
+FloatMenuMakerMap.CanTakeOrder: post: VFE.Mechanoids.HarmonyPatches.MechanoidsObeyOrders.Postfix, AnimalBehaviours.VanillaExpandedFramework_FloatMenuMakerMap_CanTakeOrder_Patch.MakePawnControllable, Vehicles.Components.CanVehicleTakeOrder
+FloatMenuMakerMap.ChoicesAtFor: post: VFE.Mechanoids.HarmonyPatches.FloatMenuMakerMap_ChoicesAtFor_Patch.Postfix, AchtungMod.FloatMenuMakerMap_ChoicesAtFor_Postfix.Postfix
+FloatMenuMakerMap.GotoLocationOption: PRE: Vehicles.VehiclePathing.GotoLocationVehicles
+FloatMenuUtility.GetMeleeAttackAction: PRE: Vehicles.Components.NoMeleeForVehicles
+FoodUtility.<>c__DisplayClass19_0.<BestFoodSourceOnMap_NewTemp>b__0: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+FoodUtility.<>c__DisplayClass19_0.<BestFoodSourceOnMap_NewTemp>b__1: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+FoodUtility.<>c__DisplayClass19_0.<BestFoodSourceOnMap_NewTemp>b__2: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+FoodUtility.AddFoodPoisoningHediff: PRE: VanillaTraitsExpanded.AddFoodPoisoningHediff_Patch.Prefix
+FoodUtility.BestFoodInInventory_NewTemp: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_BestFoodInInventory.Transpiler
+FoodUtility.BestFoodSourceOnMap: post: Hospitality.Patches.FoodUtility_Patch+BestFoodSourceOnMapPatch.Postfix
+FoodUtility.FoodOptimality: post: Hospitality.Patches.FoodUtility_Patch+FoodOptimalityPatch.Postfix
+FoodUtility.GetMeatSourceCategory: PRE: VanillaCookingExpanded.VanillaExpandedFramework_FoodUtility_GetMeatSourceCategory_Patch.DontCrapTheBedWithIngredientsWithoutNutrition
+FoodUtility.InappropriateForTitle: post: DubsBadHygiene.Patches.HarmonyPatches_Thirst.InappropriateForTitlePostfix
+FoodUtility.IsFoodSourceOnMapSociallyProper: post: Hospitality.Patches.FoodUtility_Patch+IsFoodSourceOnMapSociallyProperPatch.Postfix
+FoodUtility.ThoughtsFromIngesting: post: VanillaMemesExpanded.VanillaMemesExpanded_FoodUtility_ThoughtsFromIngesting_Patch.NotifyAnimalProducstIngested
+FoodUtility.TryFindBestFoodSourceFor: post: Hospitality.Patches.FoodUtility_Patch+TryFindBestFoodSourceFor_Patch.Postfix
+FoodUtility.WillIngestFromInventoryNow: post: DubsBadHygiene.Patches.HarmonyPatches_Thirst.WillIngestFromInventoryNow_Postfix
+ForagedFoodPerDayCalculator.GetBaseForagedNutritionPerDay: PRE: Vehicles.CaravanHandling.GetBaseForagedNutritionPerDayInVehicle
+ForbidUtility.CaresAboutForbidden: TRANS: Hospitality.Patches.ForbidUtility_Patch+CaresAboutForbidden.Transpiler
+ForbidUtility.InAllowedArea: post: AchtungMod.ForbidUtility_InAllowedArea_Patch.Postfix, Hospitality.Patches.ForbidUtility_Patch+InAllowedArea.Postfix
+ForbidUtility.IsForbidden: post: Hospitality.Patches.ForbidUtility_Patch+IsForbidden.Postfix
+ForbidUtility.SetForbidden: PRE: Hospitality.Patches.ForbidUtility_Patch+SetForbidden.Prefix
+FormCaravanComp.GetGizmos: post: Vehicles.Gizmos.AddVehicleGizmosPassthrough
+Frame.CompleteConstruction: PRE: VFEAncients.PowerWorker_Construct.Refund, Vehicles.Construction.CompleteConstructionVehicle
+Frame.Destroy: PRE: VanillaVehiclesExpanded.Frame_Destroy_Patch.Prefix post: VanillaVehiclesExpanded.Frame_Destroy_Patch.Postfix
+Game.AddMap: post: SmashTools.ComponentCache.RegisterMapComps
+Game.DeinitAndRemoveMap: PRE: AchtungMod.Game_DeinitAndRemoveMap_Patch.Prefix post: HugsLib.Patches.Game_DeinitAndRemoveMap_Patch.MapRemovalHook
+Game.FillComponents: PRE: HugsLib.Patches.Game_FillComponents_Patch.GameInitializationHook post: SmashTools.ComponentCache.ConstructGameComponents
+Game.FinalizeInit: post: HugsLib.Patches.Game_FinalizeInit_Patch.WorldLoadedHook
+Game.InitNewGame: TRANS: VFECore.Patch_Game+InitNewGame.Transpiler
+Game.LoadGame: post: CharacterEditor.CEditor.OnSavegameLoaded, [0]Hospitality.Patches.Game_LoadGame_Patch.Postfix
+GameComponentUtility.FinalizeInit: post: SmashTools.StaticConstructorOnGameInitAttribute.RunGameInitStaticConstructors, UpdateLogTool.UpdateHandler.UpdateOnGameInit
+GameComponentUtility.LoadedGame: post: VFECore.Patch_GameComponentUtility+LoadedGame.Postfix, SmashTools.UnitTesting.ExecutePostLoadTesting, UpdateLogTool.UpdateHandler.UpdateOnLoadedGame
+GameComponentUtility.StartedNewGame: post: VFECore.Patch_GameComponentUtility+StartedNewGame.Postfix, SmashTools.UnitTesting.ExecuteNewGameTesting, UpdateLogTool.UpdateHandler.UpdateOnNewGame
+GameConditionManager.RegisterCondition: post: VanillaMemesExpanded.VanillaMemesExpanded_GameConditionManager_RegisterCondition_Patch.SendRandomMood
+GameCondition_Aurora.Init: post: VanillaMemesExpanded.VanillaMemesExpanded_GameCondition_Aurora_Init_Patch.SendRandomMood
+GameCondition_ForceWeather.<>c.<RandomizeSettings>b__4_0: post: VFECore.Patch_RandomizeSettings.Postfix
+GatheringsUtility.InGatheringArea: post: AlphaMemes.GatheringsUtility_InGatheringArea_Patch.Postfix
+GatheringsUtility.ShouldGuestKeepAttendingGathering: PRE: Vehicles.LordAI.VehiclesDontParty, Hospitality.Patches.GatheringsUtility_Patch+ShouldGuestKeepAttendingGathering.Prefix
+GatheringsUtility.ShouldPawnKeepGathering: PRE: VanillaTraitsExpanded.ShouldPawnKeepGathering_Patch.Prefix
+GenAdj.AdjacentTo8WayOrInside: PRE: Vehicles.VehiclePathing.AdjacentTo8WayOrInsideVehicle
+GenAdj.OccupiedRect: PRE: Vehicles.VehiclePathing.OccupiedRectVehicles
+GenConstruct.BlocksConstruction: PRE: AchtungMod.GenConstruct_BlocksConstruction_Patch.Prefix post: VanillaFurnitureExpanded.Patch_BlocksConstruction.Postfix
+GenConstruct.CanBuildOnTerrain: PRE: DubsBadHygiene.Patches.HarmonyPatches_Plumbing.CanBuildOnTerrain_Prefix
+GenConstruct.CanConstruct: post: AlphaMemes.AlphaMemes_GenConstruct_CanConstruct_Patch.CantBuildReliquary
+GenDefDatabase.AllDefTypesWithDatabases: post: AchievementsExpanded.AssemblyHandler.DuplicateDefTypesPassthrough
+GenGrid.Impassable: TRANS: VFESecurity.Patch_GenGrid+Impassable.Transpiler
+GenGrid.Standable: TRANS: VFESecurity.Patch_GenGrid+Standable.Transpiler
+GenGrid.WalkableBy: PRE: VFECore.PhasingPatches.WalkableBy_Prefix
+GenGuest.EnslavePrisoner: post: Hospitality.Patches.GenGuest_Patch+EnslavePrisoner.Postfix
+GenLeaving.DoLeavingsFor: PRE: Vehicles.Construction.DoUnsupportedVehicleRefunds
+GenLeaving.GetBuildingResourcesLeaveCalculator: post: VanillaMemesExpanded.VanillaMemesExpanded_GenLeaving_GetBuildingResourcesLeaveCalculator_Patch.SetYieldTo100
+GenRecipe.MakeRecipeProducts: PRE: VFEAncients.HarmonyPatches.MendingPatches.RepairItem post: VanillaTraitsExpanded.MakeRecipeProducts_Patch.Postfix
+GenRecipe.PostProcessProduct: post: AlphaGenes.AlphaGenes_GenRecipe_PostProcessProduct_Patch.IncreaseQualityByOne, VanillaBooksExpanded.Patch_PostProcessProduct.Postfix, VanillaMemesExpanded.VanillaMemesExpanded_GenRecipe_PostProcessProduct_Patch.IncreaseQualityByOne
+GenSpawn.Spawn: PRE: Vehicles.Construction.RegisterThingSpawned
+GenStep_Power.Generate: PRE: KCSG.Prefix_GenStep_Power.Prefix
+GenStep_Settlement.ScatterAt: PRE: VFE_Settlers.Utilities.Harmony+GenStep_SettlementScatterAt_Patch.PreFix TRANS: VFECore.GenStep_Settlement_ScatterAt_Patch.Transpiler
+GenStep_Terrain.TerrainFrom: post: VFECore.GenStep_Terrain_TerrainFrom_Patch.Postfix
+GenStuff.RandomStuffInexpensiveFor: TRANS: [0]VFECore.RandomStuffInexpensiveFor_Patch.Transpiler
+GenStuff.TryRandomStuffByCommonalityFor: PRE: [800]VFECore.TryRandomStuffByCommonalityFor_Patch.Prefix
+GenThing.ItemCenterAt: TRANS: LWM.DeepStorage.Patch_GenThing_ItemCenterAt.Transpiler
+GenThing.TrueCenter: PRE: Vehicles.Rendering.TrueCenterVehicle
+Gene.ExposeData: post: VanillaGenesExpanded.VanillaGenesExpanded_Gene_ExposeData_Patch.Postfix
+Gene.OverrideBy: post: VanillaGenesExpanded.VanillaGenesExpanded_Gene_OverrideBy_Patch.Postfix
+Gene.PostAdd: post: CharacterEditor.CEditor.OnPostAddGene, VanillaGenesExpanded.VanillaGenesExpanded_Gene_PostAdd_Patch.Postfix
+Gene.PostRemove: post: CharacterEditor.CEditor.OnPostRemoveGene, VanillaGenesExpanded.VanillaGenesExpanded_Gene_PostRemove_Patch.Postfix
+GeneDefGenerator.ImpliedGeneDefs: post: AlphaGenes.AlphaGenes_GeneDefGenerator_ImpliedGeneDefs_Patch.Postfix
+GeneGraphicData.GetGraphics: post: VanillaGenesExpanded.GeneGraphicData_GetGraphics_Patch.Postfix
+GeneUIUtility.DrawGeneBasics: TRANS: VanillaGenesExpanded.VanillaGenesExpanded_GeneUIUtility_DrawGeneBasics_Patch.Transpiler
+Genepack.PostMake: post: AlphaGenes.AlphaGenes_Genepack_PostMake_Patch.ChangeForAlphaGenes
+GhostDrawer.DrawGhostThing: PRE: VanillaVehiclesExpanded.GhostDrawer_DrawGhostThing_Patch.Prefix post: Vehicles.Rendering.DrawGhostVehicle, VanillaVehiclesExpanded.GhostDrawer_DrawGhostThing_Patch.Postfix
+GhostUtility.GhostGraphicFor: post: VanillaFurnitureExpanded.VanillaExpandedFramework_GhostUtility_GhostGraphicFor_Patch.DisplayBlueprintGraphic
+GiveToPackAnimalUtility.UsablePackAnimalWithTheMostFreeSpace: PRE: Vehicles.CaravanFormation.UsableVehicleWithMostFreeSpace
+Gizmo_SidearmsList.DrawGizmoLabel: PRE: VFE.Mechanoids.HarmonyPatches.SimpleSidearmsPatch.GizmoLabelFixer
+GlobalTextureAtlasManager.TryMarkPawnFrameSetDirty: PRE: VFECore.Patch_DisableAtlasCaching.Prefix
+GrammarResolver.RandomPossiblyResolvableEntry: PRE: SpeakUp.GrammarResolver_RandomPossiblyResolvableEntry.Prefix post: SpeakUp.GrammarResolver_RandomPossiblyResolvableEntry.Postfix
+GrammarResolver.Resolve: PRE: SpeakUp.GrammarResolver_Resolve.Prefix
+GrammarResolver.RuleEntry.ValidateConstantConstraints: PRE: SpeakUp.RuleEntry_ValidateConstantConstraints.Prefix
+GrammarResolver.TryResolveRecursive: PRE: SpeakUp.GrammarResolver_TryResolveRecursive.Prefix post: SpeakUp.GrammarResolver_TryResolveRecursive.Postfix
+GraphicData.Init: post: Vehicles.VehicleHarmonyOnMod.GraphicInit
+GraphicUtility.ExtractInnerGraphicFor: PRE: DubsBadHygiene.Patches.HarmonyPatches_Thirst.ExtractInnerGraphicFor_Prefix
+HaulAIUtility.HaulToCellStorageJob: TRANS: LWM.DeepStorage.Patch_HaulToCellStorageJob.Transpiler
+HaulAIUtility.HaulablePlaceValidator: post: VanillaPlantsExpandedMorePlants.VanillaPlantsExpandedMorePlants_HaulAIUtility_HaulablePlaceValidator_Patch.MakeZonesNotHaulable
+HaulAIUtility.PawnCanAutomaticallyHaulFast: PRE: AchtungMod.HaulAIUtility_PawnCanAutomaticallyHaulFast_Patch.Prefix TRANS: AlphaGenes.AlphaGenes_HaulAIUtility_PawnCanAutomaticallyHaulFast.Transpiler
+HealthCardUtility.DrawHediffRow: PRE: VanillaGenesExpanded.VanillaGenesExpanded_HealthCardUtility_DrawHediffRow_Patch.Prefix post: VanillaGenesExpanded.VanillaGenesExpanded_HealthCardUtility_DrawHediffRow_Patch.Postfix TRANS: VanillaGenesExpanded.VanillaGenesExpanded_HealthCardUtility_DrawHediffRow_Patch.Transpiler
+HealthCardUtility.GenerateSurgeryOption: post: MVCF.Features.PatchSets.PatchSet_Brawlers.GenerateSurgeryOption_Postfix
+HealthUtility.GetGeneralConditionLabel: PRE: Vehicles.HealthAndStats.ReplaceConditionLabel
+Hediff.get_ShouldRemove: post: VanillaTraitsExpanded.ShouldRemove_Patch.Postfix
+HediffComp_Immunizable.get_SeverityFactorFromHediffs: post: VanillaGenesExpanded.VanillaExpandedFramework_HediffComp_Immunizable_SeverityFactorFromHediffs_Patch.AddDiseaseFactor
+HediffComp_PregnantHuman.get_CompTipStringExtra: post: AlphaGenes.AlphaGenes_HediffComp_PregnantHuman_CompTipStringExtra_Patch.AddGeneMultiplierExplanation
+HediffSet.CalculatePain: post: VFECore.CalculatePain_Patch.Postfix
+HediffSet.DirtyCache: post: VFECore.DirtyCache_Patch.Postfix
+HediffSet.get_BleedRateTotal: post: VFECore.Patch_BleedRateTotal.Postfix
+HediffUtility.CanHealFromTending: PRE: Vehicles.HealthAndStats.VehiclesDontHealTended
+HediffUtility.CanHealNaturally: PRE: Vehicles.HealthAndStats.VehiclesDontHeal
+Hediff_Pregnant.PostAdd: post: VanillaGenesExpanded.VanillaGenesExpanded_Hediff_Pregnant_PostAdd_Patch.CauseEggFertilization
+Hediff_Pregnant.Tick: PRE: Hospitality.Patches.Hediff_Pregnant_Patch+Tick.Postfix
+HumanlikeMeshPoolUtility.GetHumanlikeBeardSetForPawn: PRE: FacialAnimation.HarmonyPatches.PrefixGetHumanlikeBeardSetForPawn TRANS: VanillaGenesExpanded.HumanlikeMeshPoolUtility_Patches+GetHumanlikeBeardSetForPawn_Patch.Transpiler
+HumanlikeMeshPoolUtility.GetHumanlikeBodySetForPawn: TRANS: VanillaGenesExpanded.HumanlikeMeshPoolUtility_Patches+GetHumanlikeBodySetForPawn_Patch.Transpiler
+HumanlikeMeshPoolUtility.GetHumanlikeHairSetForPawn: post: FacialAnimation.HarmonyPatches.PostfixGetHumanlikeHairSetForPawn TRANS: VanillaGenesExpanded.HumanlikeMeshPoolUtility_Patches+GetHumanlikeHairSetForPawn_Patch.Transpiler
+HumanlikeMeshPoolUtility.GetHumanlikeHeadSetForPawn: TRANS: VanillaGenesExpanded.HumanlikeMeshPoolUtility_Patches+GetHumanlikeHeadSetForPawn_Patch.Transpiler
+ITab_Pawn_Character.get_IsVisible: post: VFE.Mechanoids.HarmonyPatches.NoBioForMachines.Postfix
+ITab_Pawn_FormingCaravan.DoPeopleAndAnimals: PRE: Vehicles.CaravanHandling.DoPeopleAnimalsAndVehicle
+ITab_Pawn_FormingCaravan.FillTab: PRE: Vehicles.CaravanHandling.FillTabVehicleCaravan
+ITab_Pawn_Gear.DrawThingRow: PRE: VFE.Mechanoids.HarmonyPatches.ITab_Pawn_Gear_Patch.Prefix post: VFE.Mechanoids.HarmonyPatches.ITab_Pawn_Gear_Patch.Postfix TRANS: PickUpAndHaul.HarmonyPatches.GearTabHighlightTranspiler
+ITab_Pawn_Gear.InterfaceDrop: PRE: PeteTimesSix.SimpleSidearms.Intercepts.ITab_Pawn_Gear_InterfaceDrop_Prefix.InterfaceDrop
+ITab_Pawn_Gear.ShouldShowEquipment: post: AnimalBehaviours.VanillaExpandedFramework_ITab_Pawn_Gear_IsVisible_Patch.RemoveTab
+ITab_Pawn_Gear.TryDrawOverallArmor: TRANS: VFECore.Patch_ITab_Pawn_Gear+TryDrawOverallArmor.Transpiler
+ITab_Pawn_Gear.get_CanControl: post: VFE.Mechanoids.HarmonyPatches.ITab_Pawn_Gear_CanControl.Postfix
+ITab_Pawn_Guest.get_IsVisible: post: Hospitality.Patches.ITab_Pawn_Guest_Patch+IsVisible.Postfix
+ITab_Pawn_Visitor.<>c__DisplayClass7_0.<FillTab>g__CanUsePrisonerInteractionMode|0: post: VFEAncients.HarmonyPatches.PreceptPatches.CanUseInteractionMode_Postfix
+ITab_Pawn_Visitor.InteractionModeChanged: post: VFEAncients.HarmonyPatches.PreceptPatches.InteractionModeChanged_Postfix
+Ideo.AddPrecept: PRE: AlphaMemes.FuneralFramework_Ideo_AddPrecept.Prefix
+Ideo.ExposeData: TRANS: VanillaMemesExpanded.VanillaMemesExpanded_Ideo_ExposeData_Patch.Transpiler, AlphaMemes.FuneralFramework_Ideo_ExposeData_Patch.Transpiler
+Ideo.MemberWillingToDo: PRE: VFEAncients.HarmonyPatches.PreceptPatches.MemberWillingToDo_Prefix
+Ideo.MembersCanBuild: post: AlphaMemes.AlphaMemes_Ideo_MembersCanBuild.Postfix
+Ideo.Notify_MemberCorpseDestroyed: PRE: AlphaMemes.AlphaMemesIdeo_Notify_Patches+FuneralFramework_Ideo_MemberCorpseDestroyed.Prefix post: AlphaMemes.AlphaMemesIdeo_Notify_Patches+FuneralFramework_Ideo_MemberCorpseDestroyed.Postfix
+Ideo.Notify_MemberDied: post: AlphaMemes.AlphaMemesIdeo_Notify_Patches+FuneralFramework_Ideo_Notify_MemberDied.Postfix
+IdeoFoundation.RandomizePrecepts: post: AlphaMemes.FuneralFramework_IdeoFoundation_RandomizePrecepts.Postfix
+IdeoUIUtility.AddPreceptOption: post: AlphaMemes.FuneralFramework_IdeoUIUtility_AddPreceptOption_Patch.Postfix
+IdeoUIUtility.CanAddPrecept: post: AlphaMemes.FuneralFramework_IdeoUIUtility_CanAddPrecept_Patch.Postfix
+IdeoUIUtility.DoMemes: PRE: VanillaMemesExpanded.VanillaMemesExpanded_IdeoUIUtility_DoMemes_Patch.MakeBoxSmaller post: VanillaMemesExpanded.VanillaMemesExpanded_IdeoUIUtility_DoMemes_Patch.MakeBoxBigger
+IdeoUIUtility.DoPrecepts: post: VanillaMemesExpanded.VanillaMemesExpanded_IdeoUIUtility_DoPrecepts_Patch.EnableMorePrecepts, AlphaMemes.AlphaMemes_IdeoUIUtility_DoPrecepts_Patch.AddDespisedAnimalPrecepts
+IdeoUIUtility.DoPreceptsInt: TRANS: VFECore.OptionalFeatures.Dialog_FloatMenuOptions.Transpiler, VanillaMemesExpanded.VanillaMemesExpanded_IdeoUIUtility_DoPreceptsInt_Patch.Transpiler
+IdeoUIUtility.DoStyles: TRANS: VanillaMemesExpanded.VanillaMemesExpanded_IdeoUIUtility_DoStyles_Patch.Transpiler
+IncidentWorker.CanFireNow: PRE: VFEAncients.HarmonyPatches.StorytellerPatches.AdditionalIncidentReqs
+IncidentWorker.TryExecute: PRE: VanillaStorytellersExpanded.Patch_TryExecute.Prefix
+IncidentWorker_Disease.PotentialVictims: post: AnimalBehaviours.VanillaExpandedFramework_IncidentWorker_Disease_PotentialVictims_Patch.Postfix
+IncidentWorker_NeutralGroup.SpawnPawns: post: VFEEmpire.HarmonyPatches.Patch_SpawnPawns.Postfix
+IncidentWorker_PawnsArrive.FactionCanBeGroupSource: post: VFEAncients.HarmonyPatches.StorytellerPatches.AncientsShouldNotArrive
+IncidentWorker_Raid.TryExecuteWorker: PRE: VanillaStorytellersExpanded.Patch_TryExecuteWorker.Prefix
+IncidentWorker_RaidEnemy.GetLetterText: PRE: VFEEmpire.HarmonyPatches.Patch_GetLetterText.Prefix
+IncidentWorker_RaidEnemy.ResolveRaidStrategy: post: VFECore.IncidentWorker_RaidEnemy_ResolveRaidStrategy_Patch.Postfix
+IncidentWorker_SelfTame.Candidates: post: AnimalBehaviours.VanillaExpandedFramework_IncidentWorker_SelfTame_Candidates_Patch.Postfix
+IncidentWorker_WandererJoin.GeneratePawn: TRANS: VFECore.Patch_IncidentWorker_WandererJoin+TryExecuteWorker.Transpiler
+IndividualThoughtToAdd.Add: post: VanillaTraitsExpanded.Add_Patch.Postfix
+InteractionUtility.CanReceiveInteraction: post: VanillaMemesExpanded.VanillaMemesExpanded_InteractionUtility_CanReceiveInteraction_Patch.DontInteract
+InteractionWorker_Breakup.RandomSelectionWeight: post: VanillaTraitsExpanded.RandomSelectionWeight_Patch.Postfix
+InteractionWorker_RecruitAttempt.DoRecruit: post: Hospitality.Patches.InteractionWorker_RecruitAttempt_DoRecruit_Patch+DoRecruit.Postfix
+InteractionWorker_RecruitAttempt.Interacted: post: VanillaMemesExpanded.VanillaMemesExpanded_InteractionWorker_RecruitAttempt_Interacted_Patch.DecreaseAnonymity TRANS: VFEAncients.HarmonyPatches.StorytellerPatches.IncreaseRecruitDifficulty
+InteractionWorker_RomanceAttempt.RandomSelectionWeight: post: VanillaTraitsExpanded.InteractionWorker_RomanceAttempt_RandomSelectionWeight_Patch.Postfix
+InventoryCalculatorsUtility.ShouldIgnoreInventoryOf: post: Vehicles.CaravanHandling.ShouldIgnoreInventoryPawnInVehicle
+JobDriver.DriverTick: TRANS: Hospitality.Patches.JobDriver_Patch+DriverTick.Transpiler
+JobDriver.Notify_Starting: post: VanillaMemesExpanded.VanillaMemesExpanded_JobDriver_Notify_Starting_Patch.IfDumbSendHistoryEvent
+JobDriver.SetupToils: post: RunAndGun.Harmony.JobDriver_SetupToils.Postfix
+JobDriver_AttackMelee.TryMakePreToilReservations: post: PeteTimesSix.SimpleSidearms.Intercepts.JobDriver_AttackMelee_TryMakePreToilReservations.Postfix
+JobDriver_ConvertPrisoner.MakeNewToils: post: VanillaMemesExpanded.VanillaMemesExpanded_JobDriver_ConvertPrisoner_MakeNewToils_Patch.ReduceAnonymity
+JobDriver_Flee.<MakeNewToils>b__3_0: TRANS: VFE.Mechanoids.HarmonyPatches.JobDriver_Flee_MakeNewToils_Patch.Transpiler
+JobDriver_Goto.MakeNewToils: post: Vehicles.VehiclePathing.GotoToilsPassthrough
+JobDriver_Hack.MakeNewToils: post: VFEAncients.HarmonyPatches.BuildingPatches.FixHacking
+JobDriver_HaulToCell.MakeNewToils: post: PickUpAndHaul.HarmonyPatches.JobDriver_HaulToCell_PostFix
+JobDriver_Hunt.MakeNewToils: post: MVCF.Features.PatchSets.PatchSet_Hunting.MakeNewToils
+JobDriver_Lovin.GenerateRandomMinTicksToNextLovin: post: VanillaTraitsExpanded.GenerateRandomMinTicksToNextLovin_Patch.Postfix
+JobDriver_ManTurret.FindAmmoForTurret: PRE: VFESecurity.Patch_TryFindRandomShellDef.Prefix
+JobDriver_PrepareCaravan_GatherItems.get_Transferables: PRE: Vehicles.Jobs.TransferablesVehicle
+JobDriver_RepairMech.MakeNewToils: PRE: AlphaGenes_JobDriver_RepairMech_MakeNewToils_Patch.StorePawn
+JobDriver_ViewArt.WaitTickAction: post: VanillaTraitsExpanded.WaitTickAction_Patch.Postfix
+JobDriver_Vomit.<MakeNewToils>b__4_1: TRANS: VanillaGenesExpanded.VanillaGenesExpanded_JobDriver_Vomit_MakeNewToils_Transpiler_Patch.Transpiler
+JobDriver_Vomit.<MakeNewToils>d__4.MoveNext: TRANS: VanillaGenesExpanded.VanillaGenesExpanded_JobDriver_Vomit_MoveNext_Patch.Transpiler
+JobDriver_Vomit.MakeNewToils: PRE: VanillaGenesExpanded.VanillaGenesExpanded_JobDriver_Vomit_MakeNewToils_Patch.StorePawn post: AlphaGenes.AlphaGenes_JobDriver_Vomit_MakeNewToils_Patch.DamageAfterPuking
+JobDriver_Wait.CheckForAutoAttack: TRANS: MVCF.Features.PatchSets.PatchSet_TargetFinder.BestTargetTranspiler
+JobDriver_WatchBuilding.MakeNewToils: post: VanillaTraitsExpanded.MakeNewToils_Patch.Postfix
+JobGiver_AIDefendPawn.TryFindShootingPosition: TRANS: VFESecurity.Patch_JobGiver_AIDefendPawn+TryFindShootingPosition.Transpiler
+JobGiver_AIDefendPoint.TryFindShootingPosition: TRANS: VFESecurity.Patch_JobGiver_AIDefendPoint+TryFindShootingPosition.Transpiler
+JobGiver_AIFightEnemies.TryFindShootingPosition: TRANS: VFESecurity.Patch_JobGiver_AIFightEnemies+TryFindShootingPosition.Transpiler
+JobGiver_AIFightEnemy.FindAttackTarget: TRANS: MVCF.Features.PatchSets.PatchSet_TargetFinder.AttackTargetTranspiler
+JobGiver_AIFollowPawn.TryGiveJob: post: VFECore.DoorTeleporter+JobGiver_AIFollowPawn_TryGiveJob_Patch.Postfix
+JobGiver_ConfigurableHostilityResponse.TryGetAttackNearbyEnemyJob: TRANS: VFESecurity.Patch_JobGiver_ConfigurableHostilityResponse+TryGetAttackNearbyEnemyJob.Transpiler, MVCF.Features.PatchSets.PatchSet_TargetFinder.AttackTargetTranspiler
+JobGiver_DoLovin.TryGiveJob: PRE: VanillaTraitsExpanded.JobGiver_DoLovin_TryGiveJob_Patch.Prefix
+JobGiver_DropUnusedInventory.Drop: PRE: PeteTimesSix.SimpleSidearms.Intercepts.JobGiver_DropUnusedInventory_Drop.Prefix, PickUpAndHaul.HarmonyPatches.Drop_Prefix, [90]DubsBadHygiene.Patches.HarmonyPatches_Thirst.DropPrefix
+JobGiver_DropUnusedInventory.TryGiveJob: post: PickUpAndHaul.HarmonyPatches.DropUnusedInventory_PostFix
+JobGiver_GetFood.TryGiveJob: PRE: AnimalBehaviours.VanillaExpandedFramework_JobGiver_GetFood_GetPriority_Patch.StopEatingThings
+JobGiver_GetRest.GetPriority: TRANS: NocturnalAnimals.JobGiver_GetRest_Patch+VanillaExpandedFramework_JobGiver_GetRest_GetPriority_Patch.Transpiler
+JobGiver_GetRest.TryGiveJob: PRE: VanillaTraitsExpanded.TryGiveJob_Patch.Prefix
+JobGiver_Haul.TryGiveJob: TRANS: PickUpAndHaul.HarmonyPatches.JobGiver_Haul_TryGiveJob_Transpiler
+JobGiver_Idle.TryGiveJob: post: PickUpAndHaul.HarmonyPatches.IdleJoy_Postfix
+JobGiver_ReactToCloseMeleeThreat.TryGiveJob: post: VFEAncients.HarmonyPatches.PreceptPatches.NoFightingInterrogator
+JobGiver_Wander.TryGiveJob: PRE: Vehicles.Jobs.VehiclesDontWander
+JobGiver_Work.PawnCanUseWorkGiver: PRE: Hospitality.Patches.JobGiver_Work_Patch+PawnCanUseWorkGiver.Prefix post: VFE.Mechanoids.HarmonyPatches.MechanoidsAreCapable.Postfix
+JobGiver_Work.TryIssueJobPackage: PRE: Hospitality.Patches.JobGiver_Work_Patch+TryIssueJobPackage.Prefix
+JobUtility.TryStartErrorRecoverJob: PRE: Vehicles.Jobs.VehicleErrorRecoverJob TRANS: AchtungMod.Errors_To_Warnings_Patch.Transpiler
+JoyGiver.GetChance: post: VanillaTraitsExpanded.GetChance_Patch.Postfix
+JoyGiver_Ingest.CanIngestForJoy: post: Hospitality.Patches.JoyGiver_Ingest_Patch+CanIngestForJoy.Postfix
+JoyGiver_InteractBuildingSitAdjacent.TryGivePlayJob: PRE: HospitalityCasino.HarmonyPatches.TryGivePlayJob_Prefix
+JoyGiver_SocialRelax.TryFindIngestibleToNurse: PRE: Hospitality.Patches.ForbidUtility_Patch+TryFindIngestibleToNurse.Prefix post: Hospitality.Patches.ForbidUtility_Patch+TryFindIngestibleToNurse.Postfix
+JoyGiver_VisitGrave.TryGiveJob: PRE: VanillaTraitsExpanded.JoyGiver_VisitGrave_TryGiveJob_Patch.Prefix
+JoyUtility.JoyTickCheckEnd: post: VanillaMemesExpanded.VanillaMemesExpanded_JoyUtility_JoyTickCheckEnd_Patch.InformJoyTakingPlace
+LanguageDatabase.SelectLanguage: PRE: HugsLib.Patches.LanguageDatabase_Patch.ForceRestartAfterLangChange
+ListerBuildingsRepairable.Notify_BuildingRepaired: PRE: Vehicles.Construction.Notify_RepairedVehicle
+Lord.AddPawn: PRE: VanillaTraitsExpanded.AddPawn_Patch.Prefix post: VanillaStorytellersExpanded.Patch_AddPawn.Postfix
+Lord.CheckTransitionOnSignal: post: VFEEmpire.HarmonyPatches.Patch_Lords.CheckTransitionOnSignal_Postfix
+Lord.Cleanup: PRE: VanillaStorytellersExpanded.Patch_Cleanup.Prefix
+Lord.GotoToil: post: VFEEmpire.HarmonyPatches.Patch_Lords.GotoToil_Postfix
+LordJob_Joinable_Party.get_AttendeeThought: post: VanillaMemesExpanded.VanillaMemesExpanded_LordJob_Joinable_Party_AttendeeThought_Patch.ChangeThoughtForParty
+LordJob_Joinable_Party.get_OrganizerThought: post: VanillaMemesExpanded.VanillaMemesExpanded_LordJob_Joinable_Party_OrganizerThought_Patch.ChangeThoughtForPartyOrganizer
+LordJob_Ritual.ApplyOutcome: post: AlphaMemes.FuneralFramework_LordJobRitual_ApplyOutcome_Patch.Postfix
+LordJob_Ritual.Notify_AddedToLord: post: AlphaMemes.FuneralFramework_LordJobRitual_NotifyAddedToLord_Patch.Postfix
+LordMaker.MakeNewLord: post: VFEEmpire.HarmonyPatches.Patch_Lords.MakeNewLord_Postfix
+LordManager.RemoveLord: post: VFEEmpire.HarmonyPatches.Patch_Lords.RemoveLord_Prefix
+LordToil_PanicFlee.Init: post: VanillaMemesExpanded.VanillaMemesExpanded_LordToil_PanicFlee_Init_Patch.UndraftWhenEnemyFlees
+MainButtonWorker_ToggleWorld.Activate: PRE: Vehicles.WorldHandling.ForcedTargetingDontToggleWorld
+MainMenuDrawer.DoMainMenuControls: TRANS: HugsLib.Patches.MainMenuDrawer_Quickstart_Patch.QuicktestButtonUsesQuickstarter
+MainMenuDrawer.Init: post: CharacterEditor.CEditor.OnMainMenuInit
+MainMenuDrawer.MainMenuOnGUI: post: CharacterEditor.CEditor.OnMainMenuOnGUI
+MainTabWindow_Inspect.DoInspectPaneButtons: PRE: SmashTools.ProjectSetup.InspectablePaneButtons post: VFE.Mechanoids.HarmonyPatches.MainTabWindow_Inspect_Renaming.Postfix
+MainTabWindow_Research.DoBeginResearch: PRE: VanillaVehiclesExpanded.MainTabWindow_Research_DoBeginResearch_Patch.Prefix
+MainTabWindow_Research.DrawContentSource: PRE: VFECore.MainTabWindow_Research_DrawContentSource_Patch.Prefix
+MainTabWindow_Research.DrawLeftRect: TRANS: VanillaVehiclesExpanded.MainTabWindow_Research_DrawLeftRect_Patch.Transpiler
+MainTabWindow_Research.DrawRightRect: TRANS: VanillaStorytellersExpanded.Patch_MainTabWindow_Research+DrawRightRect.Transpiler
+Map.ConstructComponents: post: HugsLib.Patches.Map_ConstructComponents_Patch.MapComponentsInitHook, SmashTools.DetachedMapComponent.InstantiateAllMapComponents
+Map.ExposeData: PRE: SmashTools.ComponentCache.ClearAllMapComps, KCSG.Prefix_Map_ExposeData.Prefix
+Map.FinalizeInit: PRE: Vehicles.MapHandling.PreFinalizeInitRegionBuilding post: HugsLib.Patches.Map_FinalizeInit_Patch.MapLoadedHook, CharacterEditor.CEditor.OnMapLoaded, AchtungMod.Map_FinalizeInit_Patch.Postfix
+Map.MapUpdate: PRE: DubsBadHygiene.Patches.HarmonyPatches_Plumbing.GridRegen_Prefix
+MapComponentUtility.MapGenerated: post: HugsLib.Patches.MapComponentUtility_MapGenerated_Patch.MapGeneratedHook
+MapComponentUtility.MapRemoved: PRE: SmashTools.DetachedMapComponent.ClearComponentsFromCache
+MapDeiniter.Deinit: PRE: VFECore.DoorTeleporterPatches.Deinit_Prefix
+MapDeiniter.Deinit_NewTemp: post: SmashTools.ComponentCache.ClearMapComps
+MapDeiniter.NotifyEverythingWhichUsesMapReference: post: Vehicles.MapHandling.NotifyEverythingWhichUsesMapReferencePost
+MapGenerator.GenerateContentsIntoMap: PRE: VFECore.MapGenerator_GenerateContentsIntoMap_Patch.Prefix, SmashTools.ComponentCache.MapGenerated
+MapGenerator.GenerateMap: post: VFECore.MapGenerator_GenerateMap_Patch.Postfix
+MapInterface.MapInterfaceOnGUI_AfterMainTabs: post: Vehicles.MapHandling.DebugOnGUIVehicleRegions
+MapInterface.MapInterfaceOnGUI_BeforeMainTabs: post: Bubbles.Patch.RimWorld_MapInterface_MapInterfaceOnGUI_BeforeMainTabs.Postfix
+MapInterface.MapInterfaceUpdate: post: Vehicles.MapHandling.DebugUpdateVehicleRegions
+MapParent.get_MapGeneratorDef: post: KCSG.Postfix_MapParent_MapGeneratorDef+MapParent_MapGeneratorDef_Patch.Postfix
+MapPawns.PlayerEjectablePodHolder: PRE: Vehicles.Extra.PlayerEjectableVehicles
+MapPawns.get_AnyPawnBlockingMapRemoval: post: Vehicles.MapHandling.AnyVehicleBlockingMapRemoval
+MapTemperature.SeasonAcceptableFor: post: AnimalBehaviours.VanillaExpandedFramework_MapTemperature_SeasonAcceptableFor_Patch.AllowAnimalSpawns
+MassUtility.CanEverCarryAnything: PRE: Vehicles.CaravanHandling.CanCarryIfVehicle, Vehicles.CaravanHandling.CanCarryIfVehicle
+MassUtility.Capacity: PRE: Vehicles.CaravanHandling.CapacityOfVehicle post: VanillaGenesExpanded.VanillaGenesExpanded_MassUtility_Capacity_Patch.GenesAffectCarryCapacity, AnimalBehaviours.VanillaExpandedFramework_MassUtility_Capacity_Patch.MakeGigantelopesCarryMore, VFECore.MassUtility_Capacity_Patch.Postfix, VAE_Accessories.HarmonyPatches.ApparelMassCapacity, [0]VFEAncients.PowerWorker_Strong.AddCapacity
+MechClusterGenerator.MechKindSuitableForCluster: post: VFE.Mechanoids.MechClusterGenerator_MechKindSuitableForCluster_Patch.Postfix
+MechRepairUtility.RepairTick: post: AlphaGenes_MechRepairUtility_RepairTick_Patch.AddHediff
+MechanitorUtility.InMechanitorCommandRange: post: VFE.Mechanoids.HarmonyPatches.MechanitorUtility_InMechanitorCommandRange_Patch.Postfix
+MeditationFocusDef.EnablingThingsExplanation: post: AlphaGenes.AlphaGenes_MeditationFocusDef_EnablingThingsExplanation_Patch.Postfix
+MeditationFocusTypeAvailabilityCache.PawnCanUseInt: post: AlphaGenes.AlphaGenes_MeditationFocusTypeAvailabilityCache_PawnCanUse_Patch.Postfix
+MemoryThoughtHandler.TryGainMemory: PRE: VanillaTraitsExpanded.TryGainMemory_Patch.Prefix post: VFECore.TryGainMemory_Patch.Postfix, VanillaTraitsExpanded.TryGainMemory_Patch.Postfix TRANS: VFEEmpire.HarmonyPatches.Patch_ThoughtStacking.Transpiler
+MemoryThoughtHandler.TryGainMemory: post: VFEAncients.PowerWorker_BreakOnReject.PostMemoryAdd
+MemoryUtility.ClearAllMapsAndWorld: PRE: DubsBadHygiene.Patches.HarmonyPatches+Harmony_ClearAllMapsAndWorld.Prefix, Bubbles.Patch.Verse_Profile_MemoryUtility_ClearAllMapsAndWorld.Prefix, AchtungMod.MemoryUtility_ClearAllMapsAndWorld_Patch.Prefix
+MemoryUtility.UnloadUnusedUnityAssets: post: VanillaVehiclesExpanded.MemoryUtility_UnloadUnusedUnityAssets_Patch.Postfix
+MentalBreakWorker.BreakCanOccur: PRE: Vehicles.HealthAndStats.VehiclesCantEnterMentalBreak post: VanillaMemesExpanded.VanillaMemesExpanded_MentalBreakWorker_BreakCanOccur_Patch.DisableMostMentalBreaksIfPacifist, AlphaMemes.AlphaMemes_MentalBreakWorker_BreakCanOccur_Patch.DisableMostMentalBreaksIfPacifist
+MentalStateHandler.TryStartMentalState: PRE: Vehicles.PawnAI.EjectPawnForMentalState, VanillaTraitsExpanded.Patch_TryStartMentalState.Prefix, Hospitality.Patches.MentalStateHandler_Patch+TryStartMentalState.Prefix post: RunAndGun.Harmony.MentalStateHandler_TryStartMentalState.Postfix
+MentalStateWorker.StateCanOccur: PRE: Vehicles.HealthAndStats.VehiclesCantEnterMentalState
+MentalState_Manhunter.ForceHostileTo: post: Vehicles.Extra.ManhunterDontAttackVehicles
+MentalState_MurderousRage.TryFindNewTarget: PRE: VFEAncients.PowerWorker_BreakOnReject.ForceTarget
+MinifiedThing.DrawAt: PRE: Hospitality.Patches.MinifiedThing_Patch+DrawAt.Prefix
+ModLister.RebuildModList: post: Brrainz.CrossPromotion.ModLister_RebuildModList_Postfix
+ModsConfig.RestartFromChangedMods: PRE: HugsLib.Patches.ModsConfig_RestartFromChangedMods_Patch.QuickRestartInDevMode
+MouseoverReadout.MouseoverReadoutOnGUI: post: DubsBadHygiene.Patches.HarmonyPatches_Fertilizer+H_MouseoverReadoutOnGUI.Postfix TRANS: DubsBadHygiene.Patches.HarmonyPatches_Fertilizer+H_MouseoverReadoutOnGUI.Transpiler
+MoveColonyUtility.RemoveHediffs: post: VFEAncients.HarmonyPatches.PowerPatches.RemovePowers
+Need_Beauty.get_CurCategory: PRE: VanillaTraitsExpanded.CurCategory_Patch.Prefix
+Need_Food.NeedInterval: PRE: VFEAncients.PowerWorker_Hunger.Interval
+Need_Food.get_GUIChangeArrow: PRE: VFEAncients.PowerWorker_Hunger.HungerArrow
+Need_Joy.get_FallPerInterval: post: VFEAncients.PowerWorker_RecreationDrop.Double, VanillaMemesExpanded.VanillaMemesExpanded_Need_Joy_FallPerInterval_Patch.ModifyFallIntervalForPartyHost, VanillaTraitsExpanded.FallPerInterval_Patch.Postfix
+Need_Joy.get_GainingJoy: post: VFEAncients.PowerWorker_Loner.GainingAlone
+NeedsCardUtility.DrawThoughtGroup: PRE: Therapy.Patches.NeedsCardUtility_Patch+DrawThoughtGroup.DrawTherapyIcon
+OverlayDrawer.DrawOverlay: PRE: Hospitality.Patches.OverlayDrawer_Patch+DrawOverlay.Prefix
+Page_ConfigureStartingPawns.DoWindowContents: post: CharacterEditor.CEditor.AddCharacterEditorButton
+Page_ConfigureStartingPawns.PreOpen: post: CharacterEditor.CEditor.GamePlusPreOpen, KCSG.Postfix_Page_ConfigureStartingPawns_PreOpen.Postfix
+Page_ModsConfig.DoWindowContents: TRANS: Brrainz.CrossPromotion.Page_ModsConfig_DoWindowContents_Transpiler
+Patch_FloatMenuMakerMap.AddHumanlikeOrders_Fix.CanEquip: PRE: VFEAncients.PowerWorker_Strong.ForceCanEquip
+PathFinder.FindPath: TRANS: CleanPathfinding.Patch_PathFinder.Transpiler, VFESecurity.Patch_PathFinder+FindPath.Transpiler
+PathFinder.GetAllowedArea: PRE: Hospitality.Patches.PathFinder_Patch+GetAllowedArea.Replacement
+PathFinder.GetBuildingCost: post: CleanPathfinding.Patch_GetBuildingCost.Postfix
+PathGrid.CalculatedCostAt: TRANS: [800]VFESecurity.Patch_PathGrid+CalculatedCostAt.Transpiler
+Pathing.RecalculateAllPerceivedPathCosts: post: Vehicles.VehiclePathing.RecalculateAllPerceivedPathCostForVehicle
+Pathing.RecalculatePerceivedPathCostAt: post: Vehicles.VehiclePathing.RecalculatePerceivedPathCostForVehicle
+Pawn.<GetDisabledWorkTypes>g__FillList|302_0: PRE: VanillaApparelExpanded.Pawn_GetDisabledWorkTypes_Patch.Prefix post: VFEAncients.HarmonyPatches.PowerPatches.AddDisabledWorkTypes TRANS: VFEEmpire.HarmonyPatches.Patch_Conceit+Work.Transpiler
+Pawn.DeSpawn: PRE: MVCF.Features.Feature_IndependentVerbs.Postfix_Pawn_DeSpawn post: AchtungMod.Pawn_DeSpawn_Patch.Postfix, VFECore.PhasingPatches.Despawn_Postfix, Hospitality.Patches.Pawn_Patch+DeSpawn.Postfix
+Pawn.Destroy: PRE: VanillaTraitsExpanded.Destroy_Patch.Prefix TRANS: Vehicles.Construction.ValidDestroyModeForVehicles
+Pawn.Discard: post: VFEEmpire.HarmonyPatches.Patch_HonorsMisc.Discard_Postfix
+Pawn.DrawAt: post: MVCF.Features.Feature_Drawing.Postfix_Pawn_DrawAt
+Pawn.ExitMap: post: VanillaTraitsExpanded.ExitMap_Patch.Postfix
+Pawn.ExposeData: post: VFEEmpire.HarmonyPatches.Patch_HonorsMisc.ExposeData_Postfix, VFEAncients.Pawn_PowerTracker.Save, VFEAncients.HarmonyPatches.MetaMorphPatches.SaveMetamorphed, VanillaVehiclesExpanded.Pawn_ExposeData_Patch.Postfix, MVCF.Features.Feature.PostExposeDataPawn
+Pawn.GetChildHolders: PRE: Vehicles.Extra.GetVehicleHandlerIThingHolders
+Pawn.GetGizmos: post: AnimalBehaviours.Pawn_GetGizmos_Patch.Postfix, PeteTimesSix.SimpleSidearms.Intercepts.Pawn_GetGizmos_Postfix.Postfix, VFEEmpire.HarmonyPatches.Patch_HonorsMisc.GetGizmos_Postfix, VFEAncients.HarmonyPatches.AbilityPatches.AddGizmos, VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Pawn_GetGizmos_WeaponGizmoGetter_Patch.GetGizmos_PostFix, MVCF.Features.Feature_RangedAnimals.Pawn_GetGizmos_Postfix, RunAndGun.Harmony.Pawn_DraftController_GetGizmos_Patch.Postfix
+Pawn.GetInspectString: post: AchtungMod.Pawn_GetInspectString_Patch.Postfix
+Pawn.GetReasonsForDisabledWorkType: TRANS: VFEEmpire.HarmonyPatches.Patch_Conceit+Work.Transpiler
+Pawn.GiveSoldThingToPlayer: PRE: Hospitality.Patches.Pawn_Patch+GiveSoldThingToPlayer.Prefix
+Pawn.GiveSoldThingToTrader: PRE: Hospitality.Patches.Pawn_Patch+GiveSoldThingToTrader.Prefix
+Pawn.Kill: PRE: VFECore.Patch_Kill.Prefix, VanillaStorytellersExpanded.Patch_Kill.Prefix, Vehicles.Extra.MoveOnDeath, VFE_Settlers.Utilities.Harmony+PawnKill_Patch.PreFix, VAE_Accessories.HarmonyPatches.BeltsOnDeath post: VFE.Mechanoids.HarmonyPatches.MachinesDie.Postfix, VFECore.Patch_Kill.Postfix, VFEEmpire.HarmonyPatches.ColonistTitleCache+OnPawn.Postfix
+Pawn.MainDesc: post: VFE.Mechanoids.HarmonyPatches.Pawn_MainDesc_Patch.Postfix
+Pawn.PreApplyDamage: post: VFEAncients.PowerWorker_Blunt.SurfaceOnly
+Pawn.ProcessPostTickVisuals: PRE: Vehicles.Rendering.ProcessVehiclePostTickVisuals
+Pawn.SetFaction: PRE: Hospitality.Patches.Pawn_Patch+SetFaction.Prefix post: VFECore.Patch_Pawn+SetFaction.Postfix, VFEEmpire.HarmonyPatches.ColonistTitleCache+OnPawn.Postfix
+Pawn.SpawnSetup: post: VFECore.CompShieldField+SpawnSetup_Patch.Postfix, VFECore.PhasingPatches.CheckPhasing, VanillaTraitsExpanded.SpawnSetup_Patch.Postfix, MVCF.Features.Feature_IndependentVerbs.Postfix_Pawn_SpawnSetup
+Pawn.TickRare: post: VFE_Settlers.Utilities.Harmony+PawnTickRare_Patch.PostFix
+Pawn.TicksPerMove: PRE: Vehicles.HealthAndStats.VehicleMoveSpeed post: RunAndGun.Harmony.Pawn_TicksPerMove.Postfix
+Pawn.TryGetAttackVerb: PRE: MVCF.Patch_Pawn_TryGetAttackVerb.Prefix post: VFECore.Abilities.TryGetAttackVerb_Patch.Postfix, MVCF.Patch_Pawn_TryGetAttackVerb.Postfix
+Pawn.VerifyReservations: PRE: Hospitality.Patches.Pawn_Patch+VerifyReservations.Prefix
+Pawn.WorkTypeIsDisabled: post: AnimalBehaviours.VanillaExpandedFramework_Pawn_WorkTypeIsDisabled_Patch.RemoveTendFromAnimals
+Pawn.get_CombinedDisabledWorkTags: post: VFEEmpire.HarmonyPatches.Patch_HonorsMisc.Postfix_Disabled, VFEAncients.HarmonyPatches.PowerPatches.DisableWork TRANS: VFEEmpire.HarmonyPatches.Patch_Conceit+Work.Transpiler
+Pawn.get_CurrentEffectiveVerb: PRE: MVCF.Features.PatchSets.PatchSet_TargetFinder.CurrentEffectiveVerb_Prefix
+Pawn.get_Drafted: post: Vehicles.Components.VehicleIsDrafted
+Pawn.get_HealthScale: PRE: VFEAncients.HarmonyPatches.MetaMorphPatches.MetaMorphHealth
+Pawn.get_IsColonistPlayerControlled: post: AnimalBehaviours.VanillaExpandedFramework_Pawn_IsColonistPlayerControlled_Patch.AddAnimalAsColonist
+Pawn.get_VerbProperties: PRE: VFEAncients.HarmonyPatches.MetaMorphPatches.MetaMorphAttacks
+Pawn.set_Name: PRE: VFEEmpire.HarmonyPatches.Patch_HonorsMisc.Set_Name_Prefix
+PawnApparelGenerator.GenerateStartingApparelFor: post: VFECore.Patch_PawnApparelGenerator.GenerateStartingApparelFor_Postfix
+PawnApparelGenerator.PossibleApparelSet.CoatButNoShirt: TRANS: VFECore.Patch_PawnApparelGenerator+PossibleApparelSet+manual_CoatButNoShirt.Transpiler
+PawnAttackGizmoUtility.GetAttackGizmos: post: MVCF.Features.Feature_Humanoid.GetAttackGizmos_Postfix
+PawnBanishUtility.Banish: PRE: Vehicles.WorldHandling.BanishPawnFromAerialVehicle
+PawnBioAndNameGenerator.FillBackstorySlotShuffled: PRE: VFECore.PawnBioAndNameGenerator_FillBackstorySlotShuffled.Prefix TRANS: VFECore.PawnBioAndNameGenerator_FillBackstorySlotShuffled.Transpiler
+PawnCacheRenderer.RenderPawn: PRE: DubsBadHygiene.Patches.HarmonyPatches+H_RenderPawn.Prefix
+PawnCapacitiesHandler.Notify_CapacityLevelsDirty: PRE: Vehicles.Extra.RecheckVehicleHandlerCapacities
+PawnCapacityUtility.CalculateCapacityLevel: post: VFECore.PawnCapacityUtility_CalculateCapacityLevel.Postfix
+PawnComponentsUtility.AddAndRemoveDynamicComponents: PRE: Vehicles.Components.AddAndRemoveVehicleComponents post: AnimalBehaviours.VanillaExpandedFramework_PawnComponentsUtility_AddAndRemoveDynamicComponents_Patch.AddDraftability
+PawnComponentsUtility.AddComponentsForSpawn: post: [-2147483648]AchtungMod.PawnComponentsUtility_AddComponentsForSpawn_Patch.Postfix
+PawnComponentsUtility.CreateInitialComponents: PRE: Vehicles.Components.CreateInitialVehicleComponents post: VFECore.PawnComponentsUtility_CreateInitialComponents_Patch.Postfix
+PawnDiedOrDownedThoughtsUtility.AppendThoughts_ForHumanlike: TRANS: VFEAncients.PowerWorker_BreakOnKilled.InjectOnKilled
+PawnDiedOrDownedThoughtsUtility.TryGiveThoughts: post: VanillaTraitsExpanded.TryGiveThoughts_Patch.Postfix
+PawnFlyer.MakeFlyer: TRANS: VFECore.Abilities.PawnFlyer_MakeFlyer_Patch.Transpiler
+PawnGenerator.GenerateGearFor: post: VFECore.Patch_PawnGenerator+GenerateGearFor.Postfix, PeteTimesSix.SimpleSidearms.Intercepts.PawnGenerator_GenerateGearFor_Postfix.GenerateGearFor
+PawnGenerator.GenerateGenes: post: VanillaGenesExpanded.PawnGenerator_GenerateGenes_Patch.Postfix
+PawnGenerator.GenerateInitialHediffs: post: VFECore.Patch_PawnGenerator+GenerateInitialHediffs.Postfix
+PawnGenerator.GenerateNewPawnInternal: post: VFECore.Abilities.PawnGen_Patch.Postfix
+PawnGenerator.GeneratePawnRelations: PRE: AlphaGenes.AlphaGenes_PawnGenerator_GeneratePawnRelations_Patch.DisableRelations
+PawnGenerator.GenerateSkills: post: VFECore.PawnGenerator_GenerateSkills.Postfix
+PawnGenerator.TryGenerateNewPawnInternal: post: VFEAncients.HarmonyPatches.PowerPatches.AddPowers
+PawnGraphicSet.BeardMatAt: PRE: VFECore.PawnGraphicSet_BeardMatAt_Patch.Prefix
+PawnGraphicSet.HairMatAt: PRE: VFECore.PawnGraphicSet_HairMatAt_Patch.Prefix
+PawnGraphicSet.HeadMatAt: PRE: VFECore.PawnGraphicSet_HeadMatAt_Patch.Prefix
+PawnGraphicSet.MatsBodyBaseAt: TRANS: VFECore.Patch_PawnGraphicSet_MatsBodyBaseAt_Transpiler.Transpiler
+PawnGraphicSet.ResolveAllGraphics: PRE: VFEAncients.HarmonyPatches.MetaMorphPatches.MetamorphedGraphics post: VanillaGenesExpanded.VanillaGenesExpanded_PawnGraphicSet_ResolveAllGraphics_Patch.PostFix, VFECore.PawnGraphicSet_ResolveAllGraphics_Patch.Postfix, FacialAnimation.HarmonyPatches.PostfixResolveAllGraphics
+PawnGraphicSet.ResolveApparelGraphics: post: VFECore.Patch_PawnGraphicSet_ResolveApparelGraphics_Patch.Postfix
+PawnGraphicSet.ResolveGeneGraphics: post: FacialAnimation.HarmonyPatches.PostfixResolveGeneGraphics
+PawnNameColorUtility.PawnNameColorOf: PRE: Hospitality.Patches.PawnNameColorUtility_Patch+PawnNameColorOf.Prefix
+PawnObserver.ObserveSurroundingThings: post: VanillaTraitsExpanded.ObserveSurroundingThings_Patch.Postfix
+PawnRenderer.<>c__DisplayClass54_0.<DrawHeadHair>g__DrawApparel|2: TRANS: VFECore.Patch_DrawHeadHair_DrawApparel_Transpiler.Transpiler
+PawnRenderer.<>c__DisplayClass54_0.<DrawHeadHair>g__DrawExtraEyeGraphic|6: TRANS: VanillaGenesExpanded.DrawGeneEyes_Patch.Transpiler
+PawnRenderer.BaseHeadOffsetAt: post: FacialAnimation.HarmonyPatches.PostfixBaseHeadOffsetAt TRANS: VanillaGenesExpanded.PawnRenderer_BaseHeadOffsetAt_Patch.Transpiler
+PawnRenderer.BodyAngle: PRE: SmashTools.PawnOverlayRenderer.BodyAngle, VFEEmpire.HarmonyPatches.PawnRenderer_BodyAngle_Patch.Prefix, Therapy.Patches.PawnRenderer_Patch+BodyAngle.Replacement post: DubsBadHygiene.Patches.HarmonyPatches+H_BodyAngle.Postfix
+PawnRenderer.CarryWeaponOpenly: post: VFE.Mechanoids.HarmonyPatches.MobileTurretsShowTurrets.Postfix, PeteTimesSix.SimpleSidearms.Intercepts.PawnRenderer_CarryWeaponOpenly_Postfix.CarryWeaponOpenly
+PawnRenderer.DrawBodyApparel: TRANS: VanillaGenesExpanded.DrawBodyApparel_BeltPatches.Transpiler, VFECore.Harmony_PawnRenderer_DrawBodyApparel.Transpiler
+PawnRenderer.DrawBodyGenes: TRANS: VanillaGenesExpanded.DrawBodyGenes_Patch.Transpiler
+PawnRenderer.DrawEquipmentAiming: PRE: [800]VFECore.PawnRenderer_DrawEquipmentAiming_Patch.Prefix, VFE.Mechanoids.HarmonyPatches.RenderTurretCentered.Prefix, VanillaWeaponsExpandedLaser.HarmonyPatches.CYA_PawnRenderer_Draw_EquipmentAiming_GunDrawing_Patch.Prefix post: VFE.Mechanoids.HarmonyPatches.RenderTurretCentered.Postfix
+PawnRenderer.DrawHeadHair: TRANS: [-2147483648]VFECore.PawnRenderer_DrawHeadHair_Patch.Transpiler
+PawnRenderer.DrawPawnBody: TRANS: VFECore.Patch_PawnRenderer_DrawPawnBody_Transpiler.Transpiler
+PawnRenderer.GetBlitMeshUpdatedFrame: PRE: DubsBadHygiene.Patches.HarmonyPatches+H_GetBlitMeshUpdatedFrame.Prefix
+PawnRenderer.GetBodyOverlayMeshSet: post: VanillaGenesExpanded.PawnRenderer_GetBodyOverlayMeshSet.Postfix
+PawnRenderer.GetBodyPos: PRE: SmashTools.PawnOverlayRenderer.GetBodyPos post: DubsBadHygiene.Patches.HarmonyPatches+H_GetBodyPos.Postfix, VFECore.PawnRenderer_GetBodyPos_Patch.Postfix
+PawnRenderer.LayingFacing: PRE: SmashTools.PawnOverlayRenderer.LayingFacing
+PawnRenderer.OffsetBeardLocationForHead: PRE: FacialAnimation.HarmonyPatches.PrefixOffsetBeardLocationForHead
+PawnRenderer.RenderCache: PRE: VFEAncients.HarmonyPatches.MetaMorphPatches.CheckMetaMorphForDrawPortrait
+PawnRenderer.RenderPawnAt: PRE: Therapy.Patches.PawnRenderer_Patch+RenderPawnAt.Prefix TRANS: VFECore.Patch_RenderPawnAt.Transpiler, VFEAncients.HarmonyPatches.MetaMorphPatches.InsertCheckMetaMorphForDraw, FacialAnimation.HarmonyPatches.TranspilerRenderPawnAt
+PawnRenderer.RenderPawnInternal: PRE: FacialAnimation.HarmonyPatches.PrefixRenderPawnInternal post: FacialAnimation.HarmonyPatches.PostfixRenderPawnInternal TRANS: FacialAnimation.HarmonyPatches.TranspilerInsertAnimationHeadCode
+PawnUIOverlay.DrawPawnGUIOverlay: PRE: VanillaApparelExpanded.VAE_PawnUIOverlay_Patch.GhillieException
+PawnUtility.BodyResourceGrowthSpeed: post: AlphaGenes.AlphaGenes_PawnUtility_BodyResourceGrowthSpeed_Patch.MultiplyPregnancy
+PawnUtility.CanPickUp: PRE: PickUpAndHaul.HarmonyPatches.CanBeMadeToDropStuff
+PawnUtility.GetMaxAllowedToPickUp: PRE: PickUpAndHaul.HarmonyPatches.MaxAllowedToPickUpPrefix
+PawnUtility.GetPosture: PRE: SmashTools.PawnOverlayRenderer.PawnOverlayerPosture
+PawnUtility.IsFighting: post: AnimalBehaviours.VanillaExpandedFramework_PawnUtility_IsFighting_Patch.DontFlee
+PawnUtility.Mated: PRE: AnimalBehaviours.PawnUtility_Mated+VanillaExpandedFramework_PawnUtility_Mated_Patch.Prefix
+PawnUtility.ShouldCollideWithPawns: TRANS: CleanPathfinding.Patch_ShouldCollideWithPawns.Transpiler
+PawnUtility.ShouldSendNotificationAbout: post: Vehicles.Extra.SendNotificationsVehicle, Hospitality.Patches.PawnUtility_Patch+ShouldSendNotificationAbout.Postfix
+PawnUtility.WillSoonHaveBasicNeed: post: DubsBadHygiene.Patches.HarmonyPatches+Patch_WillSoonHaveBasicNeed.Postfix
+Pawn_AgeTracker.BirthdayBiological: post: VanillaMemesExpanded.VanillaMemesExpanded_Pawn_AgeTracker_BirthdayBiological_Patch.IfElderAddTrait
+Pawn_AgeTracker.CalculateInitialGrowth: post: CharacterEditor.CEditor.OnPreRecalcIndex
+Pawn_AgeTracker.RecalculateLifeStageIndex: post: CharacterEditor.CEditor.OnRecalcIndex
+Pawn_ApparelTracker.Notify_ApparelAdded: post: VFECore.Pawn_ApparelTracker_Notify_ApparelAdded_Patch.Postfix, MVCF.Features.Feature_ApparelVerbs.ApparelAdded_Postfix
+Pawn_ApparelTracker.Notify_ApparelRemoved: PRE: MVCF.Features.Feature_ApparelVerbs.ApparelRemoved_Prefix post: VFECore.Pawn_ApparelTracker_Notify_ApparelRemoved_Patch.Postfix
+Pawn_ApparelTracker.Remove: post: VFECore.Pawn_ApparelTracker_Remove_Patch.Postfix
+Pawn_ApparelTracker.TryDrop: PRE: Hospitality.Patches.Pawn_ApparelTracker_Patch+TryDrop.Replacement post: VanillaApparelExpanded.Patch_TryDrop.Postfix, VFECore.Pawn_ApparelTracker_TryDrop_Patch.Postfix, VFECore.TryDrop_Patch.Postfix
+Pawn_ApparelTracker.Wear: post: VanillaApparelExpanded.ApparelTracker_Wear.Postfix, VFECore.Pawn_ApparelTracker_Wear_Patch.Postfix
+Pawn_DraftController.GetGizmos: post: MVCF.Features.Feature_Humanoid.GetGizmos_Postfix
+Pawn_DraftController.set_Drafted: PRE: VanillaTraitsExpanded.Drafted_Patch.Prefix post: PeteTimesSix.SimpleSidearms.Intercepts.Pawn_DraftController_Drafted_Setter_Postfix.DraftedSetter, AchtungMod.Pawn_DraftController_Drafted_Patch.Postfix
+Pawn_EquipmentTracker.AddEquipment: post: VFECore.AddEquipment_Patch.Postfix, PeteTimesSix.SimpleSidearms.Intercepts.Pawn_EquipmentTracker_AddEquipment.AddEquipment_Postfix
+Pawn_EquipmentTracker.Notify_EquipmentAdded: PRE: VFEAncients.PowerWorker_WeaponRange.ModifyRanges post: MVCF.Features.PatchSets.PatchSet_Equipment.EquipmentAdded_Postfix
+Pawn_EquipmentTracker.Notify_EquipmentRemoved: PRE: MVCF.Features.PatchSets.PatchSet_Equipment.EquipmentRemoved_Prefix post: VFEAncients.PowerWorker_WeaponRange.ResetRanges
+Pawn_EquipmentTracker.Notify_PawnSpawned: TRANS: Hospitality.Patches.Pawn_HealthTracker_MakeDowned_Patch+Notify_PawnSpawned.Transpiler
+Pawn_EquipmentTracker.TryDropEquipment: post: VFECore.TryDropEquipment_Patch.Postfix, PeteTimesSix.SimpleSidearms.Intercepts.Pawn_EquipmentTracker_TryDropEquipment.TryDropEquipment_Postfix
+Pawn_EquipmentTracker.TryTransferEquipmentToContainer: post: MVCF.Features.PatchSets.PatchSet_Equipment.TryTransferEquipmentToContainer_Postfix
+Pawn_FilthTracker.Notify_EnteredNewCell: PRE: AnimalBehaviours.VanillaExpandedFramework_Pawn_FilthTracker_Notify_EnteredNewCell_Patch.DontDealWithFilth
+Pawn_FilthTracker.TryDropFilth: PRE: VanillaTraitsExpanded.TryDropFilth_Patch.Prefix
+Pawn_FilthTracker.TryPickupFilth: PRE: VanillaTraitsExpanded.TryPickupFilth_Patch.Prefix post: DubsBadHygiene.Patches.HarmonyPatches_Plumbing.TryPickupFilth_Postfix
+Pawn_FoodRestrictionTracker.get_Configurable: PRE: Hospitality.Patches.Pawn_FoodRestrictionTracker_Patch+Configurable.Prefix
+Pawn_GuestTracker.SetGuestStatus: PRE: Hospitality.Patches.Pawn_GuestTracker_Patch+SetGuestStatus.Prefix
+Pawn_HealthTracker.AddHediff: PRE: VFEAncients.PowerWorker_Bones.HandleBones, Vehicles.HealthAndStats.VehiclesDontAddHediffs
+Pawn_HealthTracker.CheckForStateChange: post: VFECore.Patch_Pawn_HealthTracker+CheckForStateChange.Postfix, Hospitality.Patches.Pawn_HealthTracker_CheckForStateChange_Patch.Postfix
+Pawn_HealthTracker.DropBloodFilth: PRE: VanillaGenesExpanded.VanillaGenesExpanded_Pawn_HealthTracker_DropBloodFilth_Patch.Prefix
+Pawn_HealthTracker.MakeDowned: PRE: PeteTimesSix.SimpleSidearms.Intercepts.Pawn_HealthTracker_MakeDowned.MakeDowned_Prefix, Vehicles.HealthAndStats.VehiclesCantBeDowned post: VFEEmpire.HarmonyPatches.Patch_StateChange.Postfix, AlphaGenes.AlphaGenes_Pawn_HealthTracker_MakeDowned_Patch.BreakSomeBones, Hospitality.Patches.Pawn_HealthTracker_MakeDowned_Patch+MakeDowned.Postfix TRANS: Hospitality.Patches.Pawn_HealthTracker_MakeDowned_Patch+MakeDowned.Transpiler
+Pawn_HealthTracker.MakeUndowned: post: VFEEmpire.HarmonyPatches.Patch_StateChange.Postfix
+Pawn_HealthTracker.NotifyPlayerOfKilled: post: AlphaMemes.FuneralFramework_Pawn_HealthTracker_NotifyPlayerOfKilled_AnimalObligationTrigger.Postfix
+Pawn_HealthTracker.Notify_HediffChanged: post: FacialAnimation.HarmonyPatches.PostfixNotify_HediffChanged
+Pawn_HealthTracker.Notify_Resurrected: post: VFEEmpire.HarmonyPatches.Patch_StateChange.Postfix
+Pawn_HealthTracker.Reset: post: VFEEmpire.HarmonyPatches.Patch_StateChange.Postfix
+Pawn_HealthTracker.SetDead: post: VFEEmpire.HarmonyPatches.Patch_StateChange.Postfix
+Pawn_HealthTracker.ShouldBeDowned: PRE: VFECore.Patch_ShouldBeDowned.Prefix, Vehicles.HealthAndStats.VehicleShouldBeDowned
+Pawn_IdeoTracker.SetIdeo: post: VanillaMemesExpanded.VanillaMemesExpanded_Pawn_IdeoTracker_SetIdeo_Patch.ForceTrait
+Pawn_InteractionsTracker.InteractionsTrackerTick: post: SpeakUp.Pawn_InteractionsTracker_InteractionsTrackerTick.Postfix
+Pawn_InteractionsTracker.SocialFightChance: post: VFEAncients.PowerWorker_AlwaysSocialFight.ForceSocialFight
+Pawn_InteractionsTracker.TryInteractRandomly: PRE: Hospitality.Patches.Pawn_InteractionsTracker_Patch+TryInteractRandomly.Replacement TRANS: VFEAncients.HarmonyPatches.PowerPatches.ForceInteraction
+Pawn_InteractionsTracker.TryInteractWith: PRE: SpeakUp.Pawn_InteractionsTracker_TryInteractWith.Prefix post: VFECore.TryInteractWith_Patch.Postfix TRANS: VFEEmpire.HarmonyPatches.Patch_Pawn_InteractionsTracker_TryInteractWith.Transpiler
+Pawn_InventoryTracker.Notify_ItemRemoved: post: PickUpAndHaul.HarmonyPatches.Pawn_InventoryTracker_PostFix
+Pawn_InventoryTracker.get_FirstUnloadableThing: post: PeteTimesSix.SimpleSidearms.Intercepts.Pawn_InventoryTracker_FirstUnloadableThing.Postfix
+Pawn_JobTracker.CheckForJobOverride: TRANS: Vehicles.Jobs.NoOverrideDamageTakenTranspiler
+Pawn_JobTracker.EndCurrentJob: PRE: [2147483647]AchtungMod.Pawn_JobTracker_EndCurrentJob_Patch.Prefix, VanillaTraitsExpanded.EndCurrentJobPatch.Prefix post: [-2147483648]AchtungMod.Pawn_JobTracker_EndCurrentJob_Patch.Postfix TRANS: AchtungMod.Pawn_JobTracker_EndCurrentJob_Patch.Transpiler
+Pawn_JobTracker.ShouldStartJobFromThinkTree: post: AchtungMod.Pawn_JobTracker_ShouldStartJobFromThinkTree_Patch.Postfix
+Pawn_JobTracker.StartJob: PRE: VanillaTraitsExpanded.StartJob_Patch.Prefix
+Pawn_JobTracker.TryTakeOrderedJob: PRE: VanillaTraitsExpanded.TryTakeOrderedJob_Patch.Prefix post: VanillaTraitsExpanded.TryTakeOrderedJob_Patch.Postfix
+Pawn_MechanitorTracker.CanCommandTo: post: AlphaGenes.AlphaGenes_Pawn_MechanitorTracker_CanCommandTo_Patch.ModifyRange
+Pawn_MechanitorTracker.DrawCommandRadius: post: AlphaGenes.AlphaGenes_Pawn_MechanitorTracker_DrawCommandRadius_Patch.DrawExtraCommandRadius
+Pawn_MeleeVerbs.ChooseMeleeVerb: PRE: Vehicles.Components.VehiclesDontMeleeThings
+Pawn_MeleeVerbs.TryMeleeAttack: post: VanillaTraitsExpanded.TryMeleeAttack_Patch.Postfix
+Pawn_MindState.Reset: post: Hospitality.Patches.Pawn_MindState_Patch+TryStartMentalState.Postfix
+Pawn_MindState.StartFleeingBecauseOfPawnAction: PRE: AnimalBehaviours.VanillaExpandedFramework_Pawn_MindState_StartFleeingBecauseOfPawnAction_Patch.DontFlee
+Pawn_NeedsTracker.ShouldHaveNeed: PRE: VFEMech.ShouldHaveNeed_Patch.Prefix, Hospitality.Patches.Pawn_NeedsTracker_Patch+ShouldHaveNeed.Prefix post: DubsBadHygiene.Patches.HarmonyPatches+Patch_ShouldHaveNeed.Postfix
+Pawn_Ownership.UnclaimBed: PRE: Hospitality.Patches.Pawn_Ownership_Patch+UnclaimBed.Prefix
+Pawn_Ownership.get_OwnedBed: PRE: Hospitality.Patches.Pawn_Ownership_Patch+OwnedBed.Prefix
+Pawn_PathFollower.BuildingBlockingNextPathCell: PRE: VFECore.PhasingPatches.NoBuildingBlocking
+Pawn_PathFollower.CostToMoveIntoCell: post: AnimalBehaviours.VanillaExpandedFramework_Pawn_PathFollower_CostToMoveIntoCell_Patch.DisablePathCostForFloatingCreatures TRANS: VFECore.PhasingPatches.CostToMoveIntoCell_Transpile
+Pawn_PathFollower.GenerateNewPath: PRE: VFECore.PhasingPatches.GenerateNewPath_Prefix
+Pawn_PathFollower.NeedNewPath: post: Vehicles.VehiclePathing.IsVehicleInNextCell
+Pawn_PathFollower.SetupMoveIntoNextCell: post: DubsBadHygiene.Patches.HarmonyPatches+Patch_SetupMoveIntoNextCell.Postfix
+Pawn_PathFollower.StartPath: PRE: VFECore.PhasingPatches.StartPath_Prefix, Vehicles.VehiclePathing.StartVehiclePath post: VFECore.PhasingPatches.StartPath_Postfix
+Pawn_PathFollower.TryEnterNextPathCell: post: VFECore.PhasingPatches.UnfogEnteredCells
+Pawn_PathFollower.TryRecoverFromUnwalkablePosition: TRANS: AchtungMod.Pawn_PathFollower_TryRecoverFromUnwalkablePosition_Patch.Transpiler
+Pawn_RelationsTracker.Notify_RescuedBy: PRE: Hospitality.Patches.Pawn_RelationsTracker_Patch+Notify_RescuedBy.Prefix
+Pawn_RelationsTracker.OpinionExplanation: TRANS: VFEEmpire.HarmonyPatches.Patch_HonorsMisc+RelationsPatches.Transpiler
+Pawn_RelationsTracker.OpinionOf: TRANS: VFEEmpire.HarmonyPatches.Patch_HonorsMisc+RelationsPatches.Transpiler
+Pawn_RotationTracker.UpdateRotation: PRE: Vehicles.Rendering.UpdateVehicleRotation
+Pawn_RoyaltyTracker.ReduceTitle: post: VFEEmpire.HarmonyPatches.ColonistTitleCache+RoyaltyTracker.Postfix
+Pawn_RoyaltyTracker.SetTitle: post: VFEEmpire.HarmonyPatches.ColonistTitleCache+RoyaltyTracker.Postfix
+Pawn_RoyaltyTracker.UpdateRoyalTitle: post: VFEEmpire.HarmonyPatches.ColonistTitleCache+RoyaltyTracker.Postfix
+Pawn_SkillTracker.Learn: post: VanillaGenesExpanded.VanillaGenesExpanded_Pawn_SkillTracker_Learn_Patch.GiveRecreation
+Pawn_StanceTracker.SetStance: PRE: MVCF.Features.Feature_IndependentVerbs.Pawn_StanceTracker_SetStance
+Pawn_TraderTracker.get_CanTradeNow: PRE: Hospitality.Patches.Pawn_TraderTracker_Patch+CanTradeNow.Prefix
+Pawn_WorkSettings.WorkIsActive: post: AchtungMod.Pawn_WorkSettings_WorkIsActive_Patch.Postfix
+PawnsArrivalModeWorker_CenterDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_ClusterDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeDropGroups.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeWalkIn.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeWalkInGroups.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_RandomDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsFinder.get_AllCaravansAndTravelingTransportPods_AliveOrDead: post: Vehicles.WorldHandling.AllAerialVehicles_AliveOrDead
+Plant.PlantCollected: PRE: VanillaPlantsExpanded.VanillaCookingExpanded_Plant_PlantCollected_Patch.AccessMap post: VanillaPlantsExpanded.VanillaPlantsExpanded_Plant_PlantCollected_Patch.AddSecondaryOutput, VanillaPlantsExpanded.VanillaCookingExpanded_Plant_PlantCollected_Patch.RemoveTilled
+Plant.YieldNow: post: VanillaMemesExpanded.VanillaMemesExpanded_Plant_YieldNow_Patch.IncreaseTreeCuttingYield
+PlantUtility.CanSowOnGrower: post: VanillaPlantsExpandedMorePlants.VanillaPlantsExpandedMorePlants_PlantUtility_CanSowOnGrower_Patch.SowTagsOnAquaticPlants
+PlayDataLoader.DoPlayLoad: post: HugsLib.Patches.PlayDataLoader_Patch.InitModsHook
+PlayLog.Add: post: Bubbles.Patch.Verse_PlayLog_Add.Postfix
+PlayLogEntryUtility.RulesForOptionalWeapon: post: MVCF.Features.PatchSets.PatchSet_BatteLog.PlayLogEntryUtility_RulesForOptionalWeapon_Postfix
+PlayLogEntry_Interaction.ClickedFromPOV: post: SpeakUp.PlayLogEntry_Interaction_ClickedFromPOV.Postfix
+PlayLogEntry_Interaction.ToGameStringFromPOV_Worker: PRE: SpeakUp.PlayLogEntry_Interaction_ToGameStringFromPOV_Worker.Prefix post: SpeakUp.PlayLogEntry_Interaction_ToGameStringFromPOV_Worker.Postfix
+PlaySettings.DoPlaySettingsGlobalControls: post: Bubbles.Patch.RimWorld_PlaySettings_DoPlaySettingsGlobalControls.Postfix, FacialAnimation.HarmonyPatches.PostfixDoPlaySettingsGlobalControls
+PlayerKnowledgeDatabase.ReloadAndRebind: PRE: VFECore.DefIndicesFixer.Prefix
+PowerNet.PowerNetTick: post: VFEAncients.HarmonyPatches.BuildingPatches.PowerNetOnSolarFlarePostfix TRANS: VFEAncients.HarmonyPatches.BuildingPatches.PowerNetOnSolarFlareTranspiler
+Precept_Relic.Notify_ThingLost: PRE: AlphaMemes.AlphaMemes_Precept_Relic_Notify_ThingLost_Patch.DontNotifyForIconoclasts
+Precept_Ritual.AddObligation: PRE: AlphaMemes.Precept_Ritual_AddObligation.Prefix
+Precept_Role.get_DisabledWorkTypes: post: VanillaMemesExpanded.VanillaMemesExpanded_Precept_Role_DisabledWorkTypes_Patch.DisableDumbLabor
+PriorityWork.GetGizmos: post: AchtungMod.PriorityWork_GetGizmos_Patch.Postfix
+Projectile.CanHit: PRE: Vehicles.Combat.TurretHitFlags
+Projectile.CheckForFreeIntercept: post: VFEMech.TeslaProjectile+ProjectilePatches.Postfix TRANS: VFECore.Projectile_SetTrueOrigin.Transpiler, Vehicles.Combat.VehicleProjectileInterceptor
+Projectile.CheckForFreeInterceptBetween: TRANS: VFECore.Projectile_SetTrueOrigin.Transpiler
+Projectile.Impact: PRE: VFECore.Projectile_Impact_Patch.Prefix, Vehicles.Combat.RegisterImpactCell
+Projectile.ImpactSomething: PRE: VFEAncients.HarmonyPatches.PointDefensePatches.PreImpactSomething post: VFEMech.TeslaProjectile+ProjectilePatches.Postfix TRANS: VFECore.Projectile_SetTrueOrigin.Transpiler, Vehicles.Combat.VehicleProjectileChanceToHit
+Projectile.Launch: PRE: VFEAncients.HarmonyPatches.PointDefensePatches.PreLaunch post: VFECore.Projectile_Launch_Patch.Postfix
+Projectile.Tick: post: VFECore.Projectile_Tick_Patch.Postfix
+Projectile.get_DamageAmount: post: VFECore.Projectile_DamageAmount_Patch.Postfix
+Projectile.get_HitFlags: post: Vehicles.Combat.OverriddenHitFlags
+Projectile.get_StartingTicksToImpact: post: Vehicles.Combat.StartingTicksFromTurret
+Projectile_Explosive.Impact: PRE: Vehicles.Extra.ShellsImpactWater
+QualityUtility.GenerateQualityCreatedByPawn: PRE: VanillaTraitsExpanded.GenerateQualityCreatedByPawn_Patch.Prefix post: VFEAncients.PowerWorker_Craft.AddLevels, VanillaTraitsExpanded.GenerateQualityCreatedByPawn_Patch.Postfix
+Quest.End: PRE: VanillaStorytellersExpanded.Patch_End.Prefix post: VFEEmpire.Patch_Quest_End.Postfix
+QuestGen.AddSlateQuestTags: post: VanillaStorytellersExpanded.Patch_AddSlateQuestTags.Postfix
+QuestGen.Generate: post: VFECore.Patch_QuestGen_Generate.Postfix
+QuestNode_GetFaction.IsGoodFaction: post: VFECore.QuestNode_GetFaction_IsGoodFaction_Patch.Postfix
+QuestNode_GetPawn.IsGoodPawn: post: VFECore.QuestNode_GetPawn_IsGoodPawn_Patch.Postfix
+QuestNode_GetPawnKind.<>c__DisplayClass5_1.<SetVars>g__CanHandle|1: post: AnimalBehaviours.VanillaExpandedFramework_QuestNode_GetPawnKind_SetVars_CanHandle_Patch.Postfix
+QuestPart_TransporterPawns_Feed.Process: post: DubsBadHygiene.Patches.HarmonyPatches+Harmony_QuestPart_FeedPawns.Postfix
+RCellFinder.CanWanderToCell: post: DubsBadHygiene.Patches.HarmonyPatches+Patch_CanWanderToCell.Postfix
+RCellFinder.TryFindBestExitSpot: TRANS: CleanPathfinding.Patch_TryFindBestExitSpot.Transpiler
+RaceProperties.get_IsFlesh: PRE: Vehicles.VehicleHarmonyOnMod.VehiclesDontHaveFlesh
+RaidStrategyWorker_Siege.MakeLordJob: PRE: VFECore.Patch_RaidStrategyWorker_Siege+MakeLordJob.Prefix
+Reachability.CanReach: PRE: VFECore.PhasingPatches.AllReachable post: Hospitality.Patches.Reachability_Patch+CanReach.Postfix
+Recipe_InstallArtificialBodyPart.ApplyOnPawn: post: VanillaMemesExpanded.VanillaMemesExpanded_Recipe_InstallArtificialBodyPart_ApplyOnPawn_Patch.InstalledNonNaturalBodyPart
+Recipe_RemoveBodyPart.ApplyOnPawn: PRE: VanillaTraitsExpanded.ApplyOnPawn_Patch.Prefix post: VanillaTraitsExpanded.ApplyOnPawn_Patch.Postfix
+RecordsUtility.Notify_PawnDowned: post: VanillaMemesExpanded.VanillaMemesExpanded_RecordsUtility_Notify_PawnDowned_Patch.ThrowPawnDownedEvent
+Region.Allows: TRANS: VFEArchitect.ArchitectMod.PrisonerProof
+RelationsUtility.IsDisfigured: post: AlphaGenes.AlphaGenes_RelationsUtility_IsDisfigured_Patch.RemoveDisfigurement
+RelationsUtility.TryDevelopBondRelation: PRE: VanillaTraitsExpanded.TryDevelopBondRelation_Patch.Prefix
+ReleaseAnimalToWildUtility.DoReleaseAnimal: post: AlphaMemes.AlphaMemes_ReleaseAnimalToWildUtility_DoReleaseAnimal_Patch.AnnounceAnimalReleased
+ReloadableUtility.WearerOf: post: VanillaVehiclesExpanded.CompReloadableWithVerbs+ReloadableUtility_WearerOf_Patch.Postfix
+ResearchProjectDef.GetTip: TRANS: VFECore.ResearchProjectDef_GetTip_Patch.Transpiler
+ResearchProjectDef.HasTag: post: VFECore.Patch_ResearchProjectDef+HasTag.Postfix
+ResearchProjectDef.get_CanStartNow: post: VanillaStorytellersExpanded.Patch_ResearchProjectDef+get_CanStartNow.Postfix, VanillaVehiclesExpanded.ResearchProjectDef_CanStartNow_Patch.Postfix
+ReservationManager.LogCouldNotReserveError: TRANS: AchtungMod.Errors_To_Warnings_Patch.Transpiler
+ReservationManager.Reserve: TRANS: AchtungMod.ReservationManager_Reserve_Patch.Transpiler
+ReservationManager.RespectsReservationsOf: PRE: AchtungMod.ReservationManager_RespectsReservationsOf_Patch.Prefix
+RestUtility.IsValidBedFor: post: Hospitality.Patches.RestUtility_Patch+IsValidBedFor.Postfix
+ReverseDesignatorDatabase.InitDesignators: post: VFESecurity.Patch_ReverseDesignatorDatabase+InitDesignators.Postfix
+RewardsGenerator.DoGenerate: PRE: VFEEmpire.HarmonyPatches.Patch_GenerateRewards.Prefix post: VFEEmpire.HarmonyPatches.Patch_GenerateRewards.Postfix
+RitualObligationTargetWorker_IdeoBuildingOrRitualSpot.CanUseTargetInternal: post: VanillaMemesExpanded.VanillaMemesExpanded_RitualObligationTargetWorker_IdeoBuildingOrRitualSpot_CanUseTargetInternal_Patch.DontAllowWickerManToActAsSpeechFocus
+RitualOutcomeEffectWorker_BestowTitle.Apply: post: VFEEmpire.HarmonyPatches.Patch_Bestowing.Postfix
+RitualPatternDef.Fill: post: AlphaMemes.RitualPatternDef_Fill_Patch.Postfix
+RitualRoleAssignments.ExposeData: post: AlphaMemes.RitualRoleAssignments_ExposeData_Patch.Postfix
+RitualRoleAssignments.FillPawns: post: AlphaMemes.FuneralFramework_RitualRoleAssignments_FillPawns_Patch.Postfix
+RitualRoleAssignments.Setup: PRE: AlphaMemes.FuneralFramework_RitualRoleAssignments_Setup_Patch.SelectViableCorpse
+Room.<get_Owners>d__59.MoveNext: TRANS: Hospitality.Patches.Room_Owners_Transpiler.Transpiler
+Room.Notify_RoomShapeChanged: post: CleanPathfinding.Patch_Notify_RoomShapeChanged.Postfix
+Room.UpdateRoomStatsAndRole: post: VFEEmpire.MapComponent_RoyaltyTracker.Room_UpdateRoomStatsAndRole_Postfix
+RoomStatWorker_Cleanliness.GetScore: post: DubsBadHygiene.Patches.HarmonyPatches_Plumbing.GetScore_Postfix
+Root.OnGUI: post: HugsLib.Patches.Root_OnGUI_Patch.OnGUIHookUnfiltered
+Root.Update: post: HugsLib.Patches.Root_Patch.UpdateHook
+RoyalTitleDef.SpecialDisplayStats: post: VFEEmpire.HarmonyPatches.Patch_RoyalTitleDef_SpecialDisplayStats.Postfix
+SchoolUtility.CanTeachNow: PRE: AnimalBehaviours.VanillaExpandedFramework_SchoolUtility_CanTeachNow_Patch.RemoveTeaching, Vehicles.HealthAndStats.CantTeachVehicles
+SectionLayer_BridgeProps.ShouldDrawPropsBelow: post: VFEArchitect.ArchitectMod.IsVanillaBridge
+SectionLayer_FogOfWar.Regenerate: TRANS: VFECore.SectionLayer_FogOfWar_Regenerate_Patch.Transpiler
+SectionLayer_SunShadows.Regenerate: TRANS: [800]VFESecurity.Patch_SectionLayer_SunShadows+manual_Regenerate.Transpiler
+SectionLayer_Things.Regenerate: TRANS: LWM.DeepStorage.PatchDisplay_SectionLayer_Things_Regenerate.Transpiler
+SelectionDrawer.DrawSelectionBracketFor: PRE: Vehicles.Rendering.DrawSelectionBracketsVehicles TRANS: CleanPathfinding.Patch_DrawSelectionBracketFor.Transpiler
+SelectionDrawer.DrawSelectionOverlays: post: AchtungMod.SelectionDrawer_DrawSelectionOverlays_Patch.Postfix
+Selector.HandleMapClicks: PRE: AchtungMod.Selector_HandleMapClicks_Patch.Prefix, Vehicles.Extra.MultiSelectFloatMenu, LWM.DeepStorage.Patch_HandleMapClicks.Prefix
+Selector.Select: post: LWM.DeepStorage.Open_DS_Tab_On_Select.Postfix
+Selector.SelectAllMatchingObjectUnderMouseOnScreen: TRANS: VFE.Mechanoids.HarmonyPatches.Selector_SelectAllMatchingObjectUnderMouseOnScreen_Patch.Transpiler
+Selector.SelectInsideDragBox: TRANS: VFE.Mechanoids.HarmonyPatches.Selector_SelectInsideDragBox_Patch.Transpiler
+Settlement.GetCaravanGizmos: post: Vehicles.Gizmos.NoAttackSettlementWhenDocked, VFE_Settlers.Utilities.Harmony+SettlementGetCaravanGizmos_Patch.PostFix
+Settlement.GetFloatMenuOptions: post: VFECore.DoorTeleporterPatches.SettlementFloatOptions_Postfix
+Settlement.GetGizmos: post: Vehicles.Gizmos.AddVehicleCaravanGizmoPassthrough
+Settlement.get_MapGeneratorDef: post: KCSG.Postfix_Settlement_MapGeneratorDef+Settlement_MapGeneratorDef_Patch.Postfix
+SettlementAbandonUtility.Abandon: post: VanillaMemesExpanded.VanillaMemesExpanded_SettlementAbandonUtility_Abandon_Patch.SetAbandonedTimeToZero
+SettlementDefeatUtility.CheckDefeated: TRANS: Vehicles.CaravanHandling.CheckDefeatedWithVehiclesTranspiler
+SettlementDefeatUtility.IsDefeated: post: VanillaStorytellersExpanded.Patch_IsDefeated.Postfix
+SettlementUtility.AttackNow: PRE: KCSG.Postfix_SettlementUtility_Attack.Prefix TRANS: Vehicles.CaravanHandling.AttackNowWithShipsTranspiler
+Settlement_TraderTracker.ColonyThingsWillingToBuy: PRE: Vehicles.CaravanHandling.AerialVehicleInventoryItems post: PeteTimesSix.SimpleSidearms.Intercepts.Settlement_TraderTracker_ColonyThingsWillingToBuy.Postfix
+Settlement_TraderTracker.GiveSoldThingToPlayer: PRE: Vehicles.CaravanHandling.GiveSoldThingToAerialVehicle TRANS: Vehicles.CaravanHandling.GiveSoldThingToVehicleTranspiler
+ShaderTypeDef.get_Shader: PRE: Vehicles.VehicleHarmonyOnMod.ShaderFromAssetBundle
+ShaderUtility.GetSkinShader: PRE: CharacterEditor.CEditor.GetBetterShader
+ShotReport.HitReportFor: PRE: VFECore.ShotReport_HitReportFor_Patch.Prefix
+ShotReport.get_AimOnTargetChance_StandardTarget: post: VFECore.ShotReport_AimOnTargetChance_StandardTarget.Postfix
+SiegeBlueprintPlacer.PlaceArtilleryBlueprints: post: VFESecurity.Patch_PlaceArtilleryBlueprints.Postfix
+SiteMakerHelper.FactionCanOwn: post: VFECore.SiteMakerHelper_FactionCanOwn_Patch.Postfix
+SitePartWorker.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_ConditionCauser.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_ConditionCauser_ClimateAdjuster.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_ConditionCauser_PsychicDroner.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_ConditionCauser_PsychicSuppressor.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_ConditionCauser_WeatherController.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_DownedRefugee.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_ItemStash.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_Manhunters.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_Outpost.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_PreciousLump.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_PrisonerWillingToJoin.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_RaidSource.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_SleepingMechanoids.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_SpawnWanted.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SitePartWorker_Turrets.Notify_GeneratedByQuestGen: PRE: VanillaBooksExpanded.HarmonyPatches.Notify_GeneratedByQuestGenPrefix
+SketchGenUtility.IsFloorAllowed: post: DubsBadHygiene.Patches.HarmonyPatches+H_IsFloorAllowed.Postfix
+SketchGenUtility.IsStuffAllowed: post: DubsBadHygiene.Patches.HarmonyPatches+H_IsStuffAllowed.Postfix
+SketchGenUtility.PlayerCanBuildNow: post: AlphaMemes.AlphaMemes_SketchGenUtility_PlayerCanBuildNow_Patch.DisableIdeoFloors
+SkillRecord.Interval: PRE: [800]VFEEmpire.HarmonyPatches.Patch_HonorsMisc.Prefix_Interval, VanillaGenesExpanded.VanillaGenesExpanded_SkillRecord_Interval_Patch.Prefix, VFEAncients.HarmonyPatches.StorytellerPatches.NoSkillDecay, VanillaTraitsExpanded.Interval_Patch.Prefix
+SkillRecord.Learn: PRE: VanillaApparelExpanded.SkillRecord_Learn_Patch.Prefix
+Skyfaller.Tick: PRE: VFECore.Patch_Tick.Prefix, VFESecurity.Patch_Skyfaller+Patch_Tick.Prefix
+SlaveRebellionUtility.CanApplyWeaponFactor: post: MVCF.Features.PatchSets.PatchSet_Base.CanApplyWeaponFactor
+SlaveRebellionUtility.InitiateSlaveRebellionMtbDays: post: VanillaMemesExpanded.VanillaMemesExpanded_SlaveRebellionUtility_InitiateSlaveRebellionMtbDays_Patch.SetCorruptedSlaveToMinusOne
+SmoothableWallUtility.SmoothWall: post: Hospitality.Patches.SmoothableWallUtility_Patch+SmoothWall.Postfix
+SocialCardUtility.DrawPawnRow: PRE: Hospitality.Patches.SocialCardUtility_Patch+DrawPawnRow.Prefix
+SocialCardUtility.GetPawnSituationLabel: PRE: Hospitality.Patches.SocialCardUtility_Patch+GetPawnSituationLabel.Replacement
+StaggerHandler.StaggerFor: PRE: Vehicles.HealthAndStats.StaggerVehicleConditionally
+Stance_Warmup.StanceDraw: post: VFECore.Stance_WarmupStanceDraw_Patch.Postfix
+Stance_Warmup.StanceTick: post: PeteTimesSix.SimpleSidearms.Intercepts.Stance_Warmup_StanceTick_Postfix.StanceTick
+StatExtension.GetStatValue: post: [0]VFECore.StatExtension_GetStatValue_Patch.Postfix
+StatPart_Glow.ActiveFor: post: VFEAncients.PowerWorker_PrefersDarkness.Glow_ActiveFor_Postfix
+StatWorker.FinalizeValue: post: VFEAncients.HarmonyPatches.PowerPatches.SetStat
+StatWorker.GetExplanationFull: PRE: VFEAncients.HarmonyPatches.PowerPatches.SetStatExplain, VFEArchitect.ArchitectMod.StatIgnoreStuff
+StatWorker.GetExplanationUnfinalized: TRANS: VFECore.StatWorker_GetExplanationUnfinalized_Transpiler.Transpiler, VFEAncients.HarmonyPatches.PowerPatches.StatExplanationTranspile
+StatWorker.GetValueUnfinalized: PRE: VFEArchitect.ArchitectMod.StatIgnoreStuff TRANS: VFECore.StatWorker_GetValueUnfinalized_Transpiler.Transpiler, VFEAncients.HarmonyPatches.PowerPatches.StatGetValueTranspile
+StatWorker.IsDisabledFor: PRE: Vehicles.HealthAndStats.StatDisabledForVehicle
+StatsReportUtility.DrawStatsReport: PRE: VFECore.DrawStatsReport_Patch.Prefix post: VFECore.DrawStatsReport_Patch.Postfix
+SteadyEnvironmentEffects.FinalDeteriorationRate: post: VFEAncients.HarmonyPatches.BuildingPatches.AddDeterioration
+StockGeneratorUtility.TryMakeForStock: post: VanillaBooksExpanded.Patch_TryMakeForStock.Postfix
+StoreUtility.IsGoodStoreCell: post: LWM.DeepStorage.Patch_IsGoodStoreCell.Postfix
+Storyteller.TryFire: PRE: VanillaStorytellersExpanded.Patch_MakeIncidentsForInterval.Prefix
+StorytellerComp.IncidentChanceFinal: post: VanillaStorytellersExpanded.Patch_IncidentChanceFinal.Postfix
+StunHandler.StunFor: PRE: Vehicles.HealthAndStats.StunVehicleConditionally
+TaleUtility.Notify_PawnDied: post: VanillaMemesExpanded.VanillaMemesExpanded_TaleUtility_Notify_PawnDied_Patch.NotifyEnemyDied, AlphaMemes.AlphaMemes_TaleUtility_Notify_PawnDied_Patch.NotifyEnemyDied
+Tale_DoublePawn.Concerns: PRE: Vehicles.CaravanHandling.ConcernNullThing
+TantrumMentalStateUtility.CanSmash: post: LWM.DeepStorage.Patch_TantrumMentalStateUtility_CanSmash.AfterCanSmash
+Targeter.GetTargetingVerb: PRE: MVCF.Features.PatchSets.PatchSet_Base.Prefix_GetTargetingVerb
+Targeter.ProcessInputEvents: post: Vehicles.Rendering.ProcessTargeterInputEvents
+Targeter.StopTargeting: post: Vehicles.Rendering.TargeterStop
+Targeter.TargeterOnGUI: post: Vehicles.Rendering.DrawTargeters
+Targeter.TargeterUpdate: post: Vehicles.Rendering.TargeterUpdate
+TerrainDef.PostLoad: PRE: DubsBadHygiene.Patches.HarmonyPatches+Harmony_TerrainPostLoad.Prefix
+TerrainGrid.CanRemoveTopLayerAt: post: VFESecurity.Patch_TerrainGrid+CanRemoveTopLayerAt.Postfix
+TerrainGrid.DoTerrainChangedEffects: PRE: Vehicles.VehiclePathing.SetTerrainAndUpdateVehiclePathCosts post: DubsBadHygiene.Patches.HarmonyPatches+H_DoTerrainChangedEffects.Postfix
+TerrainGrid.RemoveTopLayer: PRE: VFECore.__TerrainGrid.Prefix
+TerrainGrid.SetTerrain: PRE: VFECore._TerrainGrid.Prefix post: VFECore._TerrainGrid.Postfix
+Thing.BlocksPawn: post: VFESecurity.Patch_Thing+BlocksPawn.Postfix
+Thing.DeSpawn: PRE: LWM.DeepStorage.Cleanup_For_DeepStorage_Thing_At_DeSpawn.Prefix, Hospitality.Patches.Thing_SpawnSetupPatch+DeSpawn.Prefix TRANS: Vehicles.VehiclePathing.DeSpawnAndUpdateVehicleRegionsTranspiler, VFESecurity.Patch_Thing+DeSpawn.Transpiler
+Thing.Destroy: PRE: Vehicles.Combat.ProjectileMapToWorld
+Thing.DrawGUIOverlay: PRE: LWM.DeepStorage.Add_DSU_GUI_Overlay.Prefix
+Thing.Ingested: post: VFEEmpire.HarmonyPatches.Patch_Thing_Ingested.Postfix, DubsBadHygiene.Patches.HarmonyPatches_Thirst.IngestedPostfix, VanillaMemesExpanded.VanillaMemesExpanded_Thing_Ingested_Patch.NotifyAnimalProducstIngested
+Thing.SpawnSetup: post: Hospitality.Patches.Thing_SpawnSetupPatch+SpawnSetup.Postfix TRANS: Vehicles.VehiclePathing.SpawnAndUpdateVehicleRegionsTranspiler, VFESecurity.Patch_Thing+SpawnSetup.Transpiler
+Thing.SpecialDisplayStats: post: VFEAncients.HarmonyPatches.MendingPatches.MendingDisplayStats
+Thing.TakeDamage: PRE: AnimalBehaviours.Patch_TakeDamage.Prefix, VFEAncients.PowerWorker_Damages.ChangeDamage post: VFECore.Patch_Thing_TakeDamage.Postfix, VanillaTraitsExpanded.TakeDamage_Patch.Postfix
+Thing.get_DefaultGraphic: PRE: GraphicCustomization.Thing_DefaultGraphic_Patch.Prefix
+Thing.get_DrawPos: post: LWM.DeepStorage.Ensure_Top_Item_In_DSU_Draws_Correctly.Postfix
+Thing.get_Graphic: post: [0]VFESecurity.Patch_Thing+get_Graphic.Postfix
+Thing.get_ParentHolder: post: Vehicles.CaravanHandling.VehicleWorldObjectParentHolder
+Thing.set_Position: post: Vehicles.VehiclePathing.SetPositionAndUpdateVehicleRegions
+Thing.set_Rotation: PRE: Vehicles.VehiclePathing.SetRotationAndUpdateVehicleRegionsClipping post: Vehicles.VehiclePathing.SetRotationAndUpdateVehicleRegions
+ThingDef.ConfigErrors: post: Vehicles.VehicleHarmonyOnMod.VehiclesAllowFullFillage
+ThingDef.SpecialDisplayStats: post: VFECore.ThingDef_SpecialDisplayStats_Patch.Postfix, NocturnalAnimals.ThingDef_Patch+VanillaExpandedFramework_ThingDef_SpecialDisplayStats_Nocturnal_Patch.Postfix, AnimalBehaviours.Patch_ThingDef+VanillaExpandedFramework_ThingDef_SpecialDisplayStats_Patch.Postfix, VFECore.Patch_ThingDef+SetFaction.Postfix
+ThingDef.get_DescriptionDetailed: TRANS: VFECore.ThingDef_StatOffsetFromGear_Transpiler.Transpiler
+ThingDef.get_IsRangedWeapon: PRE: MVCF.Features.Feature_ExtraEquipmentVerbs.Prefix_IsRangedWeapon post: VanillaWeaponsExpanded.FloatMenuMakerMap_AddHumanlikeOrders_Patch.IsRangedWeapon
+ThingDef.get_IsShell: post: VFESecurity.Patch_IsShell.Postfix
+ThingDef.get_IsWeapon: post: VanillaWeaponsExpanded.FloatMenuMakerMap_AddHumanlikeOrders_Patch.IsWeapon
+ThingDefGenerator_Corpses.ImpliedCorpseDefs: post: VFECore.ThingDefGenerator_Corpses_ImpliedCorpseDefs_Patch.Postfix
+ThingFilter.Allows: PRE: Hospitality.Patches.ThingFilter_Patch+Allows.Prefix
+ThingMaker.MakeThing: PRE: VFEArchitect.ArchitectMod.AdjustStuff2
+ThingOverlays.ThingOverlaysOnGUI: post: AchtungMod.ThingOverlays_ThingOverlaysOnGUI_Patch.Postfix
+ThingRequest.Accepts: post: Vehicles.Jobs.AcceptsVehicleRefuelable
+ThingSelectionUtility.SelectableByMapClick: post: VanillaApparelExpanded.VAE_ThingSelectionUtility_Patch.GhillieException
+ThingSetMakerUtility.CanGenerate: post: DubsBadHygiene.Patches.HarmonyPatches+Harmony_ThingSetMakerUtility.Postfix
+ThingSetMaker_ResourcePod.PossiblePodContentsDefs: post: DubsBadHygiene.Patches.HarmonyPatches+Harmony_ThingSetMaker_ResourcePod.Postfix
+ThingStuffPair.get_Commonality: post: VFECore.Commonality_Patch.Postfix
+ThingWithComps.ExposeData: post: VFECore.Thing_ExposeData_Patch.Postfix
+ThingWithComps.SpawnSetup: post: VFECore.Thing_SpawnSetup_Patch.Postfix
+ThinkNode_ConditionalNPCCanSelfTendNow.Satisfied: post: Hospitality.Patches.ThinkNode_ConditionalNPCCanSelfTendNow_Patch+Satisfied.Postfix
+Thought.MoodOffset: post: VanillaTraitsExpanded.MoodOffset_Patch.Postfix
+ThoughtHandler.OpinionOffsetOfGroup: post: VFEAncients.PowerWorker_Celebrity.Double
+ThoughtUtility.GiveThoughtsForPawnOrganHarvested: post: AlphaMemes.AlphaMemes_ThoughtUtility_GiveThoughtsForPawnOrganHarvested_Patch.NotifySurgeryToNonColonist
+ThoughtUtility.RemovePositiveBedroomThoughts: post: AlphaMemes.AlphaMemes_ThoughtUtility_RemovePositiveBedroomThoughts_Patch.RemoveBarrackThoughts
+ThoughtUtility.ThoughtNullified: post: VFEAncients.HarmonyPatches.PowerPatches.ThoughtNullified_Postfix
+ThoughtUtility.ThoughtNullifiedMessage: post: VFEAncients.HarmonyPatches.PowerPatches.ThoughtNullifiedMessage_Postfix
+ThoughtWorker_IsCarryingRangedWeapon.CurrentStateInternal: PRE: MVCF.Features.PatchSets.PatchSet_Brawlers.CurrentStateInternal_Prefix
+ThoughtWorker_PrisonBarracksImpressiveness.CurrentStateInternal: PRE: Hospitality.Patches.ThoughtWorker_Patch+PrisonBarracksImpressiveness.CurrentStateInternal
+ThoughtWorker_PrisonCellImpressiveness.CurrentStateInternal: PRE: Hospitality.Patches.ThoughtWorker_Patch+PrisonCellImpressiveness.CurrentStateInternal
+ThoughtWorker_Sick.CurrentStateInternal: post: VanillaMemesExpanded.VanillaMemesExpanded_ThoughtWorker_Sick_CurrentStateInternal_Patch.DontShowIfHolyDisease
+Thought_Memory.TryMergeWithExistingMemory: TRANS: VFEEmpire.HarmonyPatches.Patch_ThoughtStacking.Transpiler
+TickManager.DoSingleTick: PRE: VFECore.DoSingleTick_Patch.Prefix post: VFECore.DoSingleTick_Patch.Postfix, SpeakUp.TickManager_DoSingleTick.Postfix
+TickManager.get_CurTimeSpeed: post: Vehicles.Extra.ForcePauseFromVehicles
+TickManager.get_Paused: post: Vehicles.Extra.PausedFromVehicles
+TileFinder.<>c__DisplayClass1_0.<RandomSettlementTileFor>b__1: post: VFECore.Patch_RandomSettlementTileFor.Postfix
+TileFinder.RandomSettlementTileFor: PRE: VFECore.Patch_RandomSettlementTileFor+RandomSettlementTileFor_Patch.Prefix post: VFECore.Patch_RandomSettlementTileFor+RandomSettlementTileFor_Patch.Postfix TRANS: Vehicles.MapHandling.PushSettlementToCoastTranspiler
+TilesPerDayCalculator.ApproxTilesPerDay: PRE: Vehicles.CaravanHandling.ApproxTilesForVehicles
+Toil..ctor: post: PeteTimesSix.SimpleSidearms.Intercepts.Toil_ctor_Postfix._ctor
+Toil.AddEndCondition: PRE: AchtungMod.Toil_AddEndCondition_Patch.Prefix
+Toil.AddFailCondition: PRE: AchtungMod.Toil_AddFailCondition_Patch.Prefix
+ToilEffects.WithProgressBar: post: VanillaTraitsExpanded.WithProgressBar_Patch.Postfix
+ToilMaker.MakeToil: PRE: PeteTimesSix.SimpleSidearms.Intercepts.ToilMaker_MakeToil_Patches.Prefix post: PeteTimesSix.SimpleSidearms.Intercepts.ToilMaker_MakeToil_Patches.Postfix
+Toils_Combat.<>c__DisplayClass1_0.<GotoCastPosition>b__0: TRANS: VFESecurity.Patch_Toils_Combat+manual_GoToCastPosition_initAction.Transpiler
+Toils_Combat.TrySetJobToUseAttackVerb: PRE: MVCF.Features.PatchSets.PatchSet_Hunting.TrySetJobToUseAttackVerb
+Toils_Haul.PlaceHauledThingInCell: post: LWM.DeepStorage.Patch_PlaceHauledThingInCell_Toil.Postfix
+Toils_Ingest.TakeMealFromDispenser: post: Hospitality.Toils_Ingest_Patch+TakeMealFromDispenser_Patch.Postfix
+Toils_LayDown.ApplyBedThoughts: PRE: Hospitality.Patches.Toils_LayDown_Patch+ApplyBedThoughts.Replacement post: AlphaMemes.AlphaMemes_Toils_LayDown_ApplyBedThoughts_Patch.ApplyBarrackThoughts
+Tool.AdjustedCooldown: post: VFECore.Tool_AdjustedCooldown_Patch.Postfix
+TooltipUtility.ShotCalculationTipString: TRANS: VFEAncients.PowerWorker_ForceHit.ShotCalculationTipString_Transpile
+Tornado.CellImmuneToDamage: post: VFECore.CellImmuneToDamage.Postfix, VFESecurity.Patch_Tornado+CellImmuneToDamage.Postfix
+TradeDeal.TryExecute: post: VanillaMemesExpanded.VanillaMemesExpanded_TradeDeal_TryExecute_Patch.NotifySuccessfulTrade
+TradeUtility.PlayerSellableNow: post: Hospitality.Patches.TradeUtility_Patch+PlayerSellableNow.Postfix
+Tradeable.GetPriceTooltip: post: VFEEmpire.HarmonyPatches.DestroyerPatches.AddToTooltip
+Tradeable.InitPriceDataIfNeeded: PRE: VFEEmpire.HarmonyPatches.DestroyerPatches.CheckShouldModify post: VFEEmpire.HarmonyPatches.DestroyerPatches.ModifySellPrice
+Tradeable.get_Interactive: post: Vehicles.CaravanHandling.AerialVehicleSlaveTradeRoomCheck
+Tradeable_Pawn.ResolveTrade: post: VanillaMemesExpanded.VanillaMemesExpanded_Tradeable_Pawn_ResolveTrade_Patch.DetectSlaveBought
+TraderCaravanUtility.GetTraderCaravanRole: post: VFECore.Patch_TraderCaravanUtility+GetTraderCaravanRole.Postfix
+TrainableUtility.TamenessCanDecay: PRE: AnimalBehaviours.VanillaExpandedFramework_TrainableUtility_TamenessCanDecay_Patch.RemoveTamenessDecayCheck
+TraitSet.GainTrait: post: VanillaTraitsExpanded.GainTrait_Patch.Postfix
+TraitSet.HasTrait: post: VFEAncients.PowerWorker_PretendTrait.HasTrait_Postfix
+TraitSet.HasTrait: post: VFEAncients.PowerWorker_PretendTrait.HasTrait_Postfix
+TransferableUIUtility.DoCountAdjustInterfaceInternal: PRE: Vehicles.CaravanFormation.CanAdjustPawnTransferable
+TransferableUIUtility.DoExtraIcons: post: VFE.Mechanoids.TransferableUIUtility_DoExtraIcons_Patch.Postfix
+TransferableUtility.CanStack: TRANS: Vehicles.CaravanFormation.CanStackVehicleTranspiler
+Transition.Execute: PRE: VanillaStorytellersExpanded.Patch_Execute.Prefix
+TransitionAction_EnsureHaveExitDestination.DoAction: PRE: Hospitality.Patches.TransitionAction_EnsureHaveExitDestination_Patch+DoAction.Prefix
+TransitionAction_SetDefendLocalGroup.DoAction: PRE: Hospitality.Patches.TransitionAction_SetDefendLocalGroup_Patch+DoAction.Prefix
+TurretTop.DrawTurret: PRE: VanillaWeaponsExpandedLaser.HarmonyPatches.CYA_TuretTop_DrawTurret_LaserTurret_Patch.Prefix, [0]VFESecurity.Patch_TurretTop+DrawTurret.Prefix
+TurretTop.get_CurRotation: PRE: VFECore.TurretTop_get_CurRotation_Patch.Prefix
+UIRoot.UIRootOnGUI: post: HugsLib.Patches.UIRoot_OnGUI_Patch.OnGUIHook, SmashTools.ProjectSetup.ValidateGUIState
+UIRoot_Entry.DoMainMenu: post: CharacterEditor.CEditor.OnDoingMainMenu
+UIRoot_Entry.Init: post: SmashTools.UnitTesting.ExecuteOnStartupTesting, UpdateLogTool.UpdateHandler.UpdateOnStartup
+UIRoot_Entry.UIRootOnGUI: PRE: SmashTools.MainMenuKeyBindHandler.HandleKeyInputs
+UIRoot_Play.UIRootOnGUI: PRE: SmashTools.MainMenuKeyBindHandler.HandleKeyInputs
+VehicleInfoCard.DrawStatsWorker: PRE: VanillaVehiclesExpanded.VanillaVehiclesExpanded_VehicleInfoCard_DrawStatsWorker_Patch.Prefix
+VehicleInfoCard.StatsToDraw: post: VanillaVehiclesExpanded.VanillaVehiclesExpanded_VehicleInfoCard_StatsToDraw_Patch.Postfix
+VehiclePawn.DisembarkPawn: post: VanillaVehiclesExpanded.VehiclePawn_DisembarkPawn_Pawn.Postfix, VanillaVehiclesExpanded_Tier3.VehiclePawn_DisembarkPawn_Pawn.Postfix
+VehiclePawn.Notify_Boarded: post: VanillaVehiclesExpanded.VehiclePawn_Notify_Boarded_Pawn.Postfix
+VehiclePawn.TotalAllowedFor: post: VanillaVehiclesExpanded.VanillaVehiclesExpanded_VehiclePawn_TotalAllowedFor_Patch.Postfix
+VehiclePawn.get_PawnCollisionMultiplier: post: VanillaVehiclesExpanded.VanillaVehiclesExpanded_VehiclePawn_PawnCollisionMultiplier_Patch.Postfix
+VehiclePawn.get_WorldSpeedMultiplier: post: VanillaVehiclesExpanded.VanillaVehiclesExpanded_VehiclePawn_WorldSpeedMultiplier_Patch.Postfix
+Vehicle_PathFollower.CostToPayThisTick: post: VanillaVehiclesExpanded.Vehicle_PathFollower_CostToPayThisTick_Patch.Postfix
+Verb.Available: post: VFECore.Available.Postfix, VFESecurity.Patch_Verb+Available.Postfix, MVCF.Features.Feature_VerbComps.Available_Postfix
+Verb.ExposeData: post: MVCF.Features.Feature.PostExposeDataVerb
+Verb.OrderForceTarget: PRE: MVCF.Features.PatchSets.PatchSet_Base.Prefix_OrderForceTarget
+Verb.TryCastNextBurstShot: post: MVCF.Features.Feature_VerbComps.TryCastNextBurstShot_Postfix TRANS: MVCF.Features.Feature_VerbComps.TryCastNextBurstShot_Transpiler, RunAndGun.Harmony.Verb_TryCastNextBurstShot.Transpiler
+Verb.TryFindShootLineFromTo: TRANS: VFESecurity.Patch_Verb+TryFindShootLineFromTo.Transpiler
+Verb.TryStartCastOn: PRE: RunAndGun.Harmony.Verb_TryStartCastOn.Prefix, [100]VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Verb_Shoot_TryStartCastOn_RapidFire_Patch.TryStartCastOn_RapidFire_Prefix, [100]Warmup.Patch_Verb_Shoot.Prefix post: [401]VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Verb_Shoot_TryStartCastOn_RapidFire_Patch.TryStartCastOn_RapidFire_Postfix
+Verb.get_EffectiveRange: post: AlphaMemes.AlphaMemes_Verb_EffectiveRange_Patch.IncreaseRange
+Verb.get_EquipmentSource: PRE: MVCF.Features.PatchSets.PatchSet_Base.Prefix_EquipmentSource
+VerbProperties.AdjustedAccuracy: post: RunAndGun.Harmony.VerbProperties_AdjustedAccuracy.Postfix
+VerbProperties.AdjustedCooldown: post: VFEAncients.HarmonyPatches.PowerPatches.ApplyStat
+VerbProperties.AdjustedCooldown: post: VFECore.VerbProperties_AdjustedCooldown_Patch.Postfix
+VerbProperties.AdjustedCooldown: post: AnimalBehaviours.VanillaExpandedFramework_VerbProperties_AdjustedCooldown_Patch.LastStand, VFEAncients.HarmonyPatches.PowerPatches.ApplyStat
+VerbProperties.AdjustedMeleeDamageAmount: post: VFECore.AdjustedMeleeDamageAmount_Patch.Postfix
+VerbProperties.DrawRadiusRing: post: AlphaMemes.AlphaMemes_VerbProperties_DrawRadiusRing_Patch.ShowBiggerRadius TRANS: VFESecurity.Patch_VerbProperties+DrawRadiusRing.Transpiler
+VerbTracker.CreateVerbTargetCommand: post: GraphicCustomization.VerbTracker_CreateVerbTargetCommand_Patch.Postfix
+VerbTracker.InitVerb: post: MVCF.Features.Feature.PostInitVerb
+Verb_CastAbility.CanHitTarget: PRE: Vehicles.HealthAndStats.VehiclesImmuneToPsycast
+Verb_LaunchProjectile.Available: post: MVCF.Features.Feature_VerbComps.Available_Postfix
+Verb_LaunchProjectile.TryCastShot: PRE: VFECore.Verb_LaunchProjectile_TryCastShot.Prefix post: VFECore.Verb_LaunchProjectile_TryCastShot.Postfix TRANS: VFEAncients.PowerWorker_ForceHit.TryCastShot_Transpile
+Verb_LaunchProjectile.get_Projectile: post: MVCF.Features.Feature_VerbComps.Projectile_Postfix
+Verb_MeleeAttack.GetDodgeChance: PRE: VFEAncients.PowerWorker_MeleeSkill.ForceDodge
+Verb_MeleeAttack.GetNonMissChance: PRE: VFEAncients.PowerWorker_MeleeSkill.ForceHit
+Verb_MeleeAttack.TryCastShot: post: PeteTimesSix.SimpleSidearms.Intercepts.Verb_MeleeAttack_TryCastShot_PostFix.TryCastShot
+Verb_MeleeAttackDamage.DamageInfosToApply: post: VFEAncients.PowerWorker_Strong.AddDamage
+Verb_ShootOneUse.SelfConsume: post: PeteTimesSix.SimpleSidearms.Intercepts.Verb_ShootOneUse_SelfConsume_Postfix.SelfConsume
+Verb_SpewFire.Available: post: MVCF.Features.Feature_VerbComps.Available_Postfix
+Verb_Spray.Available: post: MVCF.Features.Feature_VerbComps.Available_Postfix
+Verb_TryCastNextBurstShot.SetStanceRunAndGun: TRANS: VFECore.Patch_RunAndGun_Harmony_Verb_TryCastNextBurstShot+manual_SetStanceRunAndGun.Transpiler, MVCF.ModCompat.PatchSets.PatchSet_RunAndGun.RunAndGunSetStance
+VersionControl.DrawInfoInCorner: post: HarmonyMod.VersionControl_DrawInfoInCorner_Patch.Postfix
+WITab_Caravan_Health.get_Pawns: PRE: Vehicles.CaravanHandling.VehicleHealthTabPawns
+WITab_Caravan_Social.get_Pawns: PRE: Vehicles.CaravanHandling.VehicleSocialTabPawns
+WanderUtility.GetColonyWanderRoot: post: VFE.Mechanoids.HarmonyPatches.GetColonyWanderRoot_Patch.Postfix
+WeatherManager.get_CurWeatherPerceived: post: VFECore.Patch_CurWeatherPerceived.Postfix
+WeatherWorker..ctor: post: VFECore.WeatherWorker_Constructor_Patch.Postfix
+Widgets.DefIcon: PRE: VFEEmpire.HarmonyPatches.Patch_RoyalTitleIcons.Widgets_DefIcon_Prefix
+Widgets.HyperlinkWithIcon: TRANS: VFEEmpire.HarmonyPatches.Patch_RoyalTitleIcons.Widgets_HyperlinkWithIcon_Transpiler
+Window.PostClose: post: Brrainz.CrossPromotion.Page_ModsConfig_PostClose_Postfix
+WindowStack.Notify_ClickedInsideWindow: PRE: SmashTools.ProjectSetup.HandleSingleWindowDialogs
+WorkGiver_ConstructDeliverResources.FindNearbyNeeders: TRANS: AchtungMod.WorkGiver_ConstructDeliverResources_FindNearbyNeeders_Patch.Transpiler
+WorkGiver_DoBill.IsUsableIngredient: PRE: VFEAncients.HarmonyPatches.MendingPatches.IsUsableIngredient_Prefix
+WorkGiver_DoBill.TryFindBestBillIngredientsInSet: post: VFEAncients.HarmonyPatches.MendingPatches.TryFindStuffIngredients
+WorkGiver_GrowerSow.JobOnCell: post: VanillaPlantsExpandedMorePlants.VanillaPlantsExpandedMorePlants_WorkGiver_GrowerSow_JobOnCell_Patch.DontSowPeanuts
+WorkGiver_Haul.ShouldSkip: PRE: PickUpAndHaul.HarmonyPatches.SkipCorpses_Prefix
+WorkGiver_HunterHunt.HasHuntingWeapon: PRE: MVCF.Features.PatchSets.PatchSet_Hunting.HasHuntingWeapon
+WorkGiver_HunterHunt.HasJobOnThing: post: Hospitality.Patches.WorkGiver_HunterHunt_Patch+HasJobOnThing.Postfix
+WorkGiver_Refuel.CanRefuelThing: post: DubsBadHygiene.Patches.HarmonyPatches_Plumbing.CanRefuelThing_Postfix
+WorkGiver_Repair.HasJobOnThing: TRANS: AchtungMod.WorkGiver_Repair_HasJobOnThing_Patch.Transpiler
+WorkGiver_RescueDowned.HasJobOnThing: PRE: Hospitality.Patches.WorkGiver_RescueDowned_Patch+HasJobOnThing_Patch.Prefix
+WorkGiver_RescueDowned.ShouldSkip: post: Hospitality.Patches.WorkGiver_RescueDowned_Patch+ShouldSkip_Patch.Postfix
+WorkGiver_Researcher.ShouldSkip: post: VanillaTraitsExpanded.ShouldSkip_Patch.Postfix
+WorkGiver_TakeToPen.PotentialWorkThingsGlobal: PRE: Hospitality.Patches.WorkGiver_TakeToPen_Patch+PotentialWorkThingsGlobal.Prefix
+WorkGiver_Tame.JobOnThing: post: AlphaMemes.AlphaMemes_WorkGiver_Tame_JobOnThing_Patch.DisallowTamingEvent
+WorkGiver_Train.JobOnThing: post: AlphaMemes.AlphaMemes_WorkGiver_Train_JobOnThing_Patch.DisallowTamingEvent
+WorkGiver_Warden.ShouldTakeCareOfPrisoner: post: VFEAncients.HarmonyPatches.PreceptPatches.ShouldTakeCareOfPrisoner_Postfix
+WorkshopItems.Notify_Subscribed: post: Brrainz.CrossPromotion.WorkshopItems_Notify_Subscribed_Postfix
+World.FillComponents: post: SmashTools.ComponentCache.ConstructWorldComponents
+World.FinalizeInit: PRE: AchtungMod.World_FinalizeInit_Patch.Prefix post: CleanPathfinding.Patch_FinalizeInit.Postfix, PeteTimesSix.SimpleSidearms.Intercepts.Patch_World_FinalizeInit.Postfix
+World.NaturalRockTypesIn: post: VFECore.World_NaturalRockTypesIn_Patch.Postfix
+WorldFactionsUIUtility.<>c__DisplayClass8_0.<DoWindowContents>g__CanAddFaction|1: TRANS: VFECore.Patch_WorldFactionsUIUtility.Transpiler
+WorldGenStep_Roads.<>c.<GenerateRoadEndpoints>b__12_0: post: VFECore.Patch_GenerateRoadEndpoints.Postfix
+WorldObjectsHolder.Add: PRE: KCSG.Prefix_WorldObjectsHolder_Add.Prefix
+WorldObjectsHolder.AddToCache: post: Vehicles.WorldHandling.AddVehicleObjectToCache
+WorldObjectsHolder.Recache: PRE: Vehicles.WorldHandling.RecacheVehicleObjectCache
+WorldObjectsHolder.Remove: post: VFESecurity.Patch_WorldObjectsHolder+Remove.Postfix
+WorldObjectsHolder.RemoveFromCache: post: Vehicles.WorldHandling.RemoveVehicleObjectToCache
+WorldPawns.GetSituation: post: Vehicles.WorldHandling.SituationBoardedVehicle
+WorldPawns.RemoveAndDiscardPawnViaGC: PRE: Vehicles.WorldHandling.DoNotRemoveVehicleObjects
+WorldRoutePlanner.DoRoutePlannerButton: post: Vehicles.WorldPathing.VehicleRoutePlannerButton
+WorldRoutePlanner.WorldRoutePlannerOnGUI: PRE: Vehicles.WorldPathing.VehicleRoutePlannerOnGUIHook
+WorldRoutePlanner.WorldRoutePlannerUpdate: PRE: Vehicles.WorldPathing.VehicleRoutePlannerUpdateHook
+WorldSelector.AutoOrderToTileNow: PRE: Vehicles.WorldPathing.AutoOrderVehicleCaravanPathing
+WorldTargeter.ProcessInputEvents: post: Vehicles.WorldHandling.WorldTargeterProcessInputEvents
+WorldTargeter.StopTargeting: post: Vehicles.WorldHandling.WorldTargeterStop
+WorldTargeter.TargeterOnGUI: post: Vehicles.WorldHandling.WorldTargeterOnGUI
+WorldTargeter.TargeterUpdate: post: Vehicles.WorldHandling.WorldTargeterUpdate
+Harmony versions present: 2.2.2.0: net.pardeike.rimworld.lib.harmony, UnlimitedHugs.HugsLib, SmashPhil.SmashTools, OskarPotocki.VFECore, net.pardeike.rimworld.mods.achtung, SmashPhil.VehicleFramework, rimworld.mod.charactereditor, Kikohi.KCSG, Orion.Hospitality, Dubwise.DubsBadHygiene, VFEEmpire.Mod, Orion.Therapy, GraphicCustomization.Mod, PeteTimesSix.SimpleSidearms, VanillaExpanded.VFEA, OskarPotocki.HeavyWeapons, com.alphamemes, legodude17.mvcf, mehni.rimworld.pickupandhaul.main, OskarPotocki.VanillaStorytellersExpanded, vanillafactionsexpanded.settlers, VanillaApparelExpanded.Accessories, com.ogliss.rimworld.mod.VanillaWeaponsExpandedLaser, com.alphagenes, OskarPotocki.VanillaTraitsExpanded, roolo.RunAndGun, jpt.speakup, OskarPotocki.VanillaFurnitureExpanded.Security, vanillaexpanded.furniture.architect, SmashPhil.VehicleFramework_preload, Owlchemist.CleanPathfinding, VanillaVehiclesExpanded.Mod, com.vanillamemesexpanded, Vanilla.BookExpanded, net.littlewhitemouse.LWM.DeepStorage, Kikohi.PipeSystem, warmup, VanillaVehiclesExpanded_Tier3.Mod, VanillaCookingExpanded, Adamas.HospitalityCasino, AppliancesExpanded.Mod; 2.2.1.0: Bubbles, smashphil.updatelog; 2.2.0.0: brrainz-crosspromotion, com.vanillaplantsexpandedmoreplants; 2.0.4.0: vanillaexpanded.achievements_preloaded; 2.0.1.0: com.vanillaplantsexpanded; 2.0.0.8: rimworld.Nals.FacialAnimation, rimworld.randomKiwi.RFM; 2.0.0.7: roolo.AlmostThere
+
+Platform information: 
+CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+OS: Windows 10  (10.0.19043) 64bit
+Memory: 7932 MB
+
+Log file contents:
+Mono path[0] = '[Rimworld_dir]/RimWorldWin64_Data/Managed'
+Mono config path = '[Rimworld_dir]/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path [Rimworld_dir]/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     3966 MB
+    Driver:   30.0.100.9805
+Begin MonoManager ReloadAssembly
+RimWorld 1.4.3704 rev896
+[HugsLib] version 10.0.1
+dubwise.dubsbadhygiene 3.0.2228
+[VanillaAchievementsExpanded] version 1.4.8315
+[Interaction Bubbles v2.5] Initialized
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+XML error: Duplicate XML node name comps in this XML block: <ThingDef ParentName="BenchBase"><defName>SimpleResearchBench</defName><label>simple research bench</label><description>A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things.</description><thingClass>Building_ResearchBench</thingClass><size>(3,2)</size><stuffCategories><li>Metallic</li><li>Woody</li><li>Stony</li></stuffCategories><costStuffCount>75</costStuffCount><costList><Steel>25</Steel></costList><graphicData><texPath>Things/Building/Production/ResearchBenchSimple</texPath><graphicClass>Graphic_Multi</graphicClass><shaderType>CutoutComplex</shaderType><drawSize>(5,4)</drawSize><damageData><cornerTL>Damage/Corner</cornerTL><cornerTR>Damage/Corner</cornerTR><cornerBL>Damage/Corner</cornerBL><cornerBR>Damage/Corner</cornerBR></damageData></graphicData><castEdgeShadows>true</castEdgeShadows><staticSunShadowHeight>0.20</staticSunShadowHeight><altitudeLayer>Building</altitudeLayer><passability>PassThroughOnly</passability><pathCost>50</pathCost><statBases><MaxHitPoints>250</MaxHitPoints><WorkToBuild>2800</WorkToBuild><Flammability>1.0</Flammability><ResearchSpeedFactor>0.75</ResearchSpeedFactor></statBases><placeWorkers><li>PlaceWorker_PreventInteractionSpotOverlap</li></placeWorkers><fillPercent>0.5</fillPercent><interactionCellOffset>(0,0,-1)</interactionCellOffset><hasInteractionCell>true</hasInteractionCell><designationCategory>Production</designationCategory><uiOrder>2600</uiOrder><surfaceType>Item</surfaceType><building><paintable>true</paintable></building><comps><li Class="CompProperties_AffectedByFacilities"><linkableFacilities><li>Misc_FileCabinet</li></linkableFacilities></li></comps><comps><li Class="CompProperties_AffectedByFacilities"><linkableFacilities><li>VD_TerrestrialGlobe</li></linkableFacilities></li></comps></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_AllMaps_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>1</numberToSpawn><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_DirtPath_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>1</numberToSpawn><allowedRoads><li>DirtPath</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <allowedRoads><li>DirtPath</li></allowedRoads> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_DirtPath_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>1</numberToSpawn><allowedRoads><li>DirtPath</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_DirtRoad_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>1</numberToSpawn><allowedRoads><li>DirtRoad</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <allowedRoads><li>DirtRoad</li></allowedRoads> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_DirtRoad_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>1</numberToSpawn><allowedRoads><li>DirtRoad</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_StoneRoad_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>2</numberToSpawn><allowedRoads><li>StoneRoad</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <allowedRoads><li>StoneRoad</li></allowedRoads> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_StoneRoad_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>2</numberToSpawn><allowedRoads><li>StoneRoad</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_AncientAsphaltRoad_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>3</numberToSpawn><allowedRoads><li>AncientAsphaltRoad</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <allowedRoads><li>AncientAsphaltRoad</li></allowedRoads> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_AncientAsphaltRoad_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>3</numberToSpawn><allowedRoads><li>AncientAsphaltRoad</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_AncientAsphaltHighway_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>4</numberToSpawn><allowedRoads><li>AncientAsphaltHighway</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <allowedRoads><li>AncientAsphaltHighway</li></allowedRoads> doesn't correspond to any field in type ObjectSpawnsDef. Context: <VFECore.ObjectSpawnsDef><defName>VVE_AncientAsphaltHighway_VehicleWrecks</defName><thingDefs><VVE_ClassicCarWreck>1</VVE_ClassicCarWreck><VVE_SupercarWreck>1</VVE_SupercarWreck><VVE_BattleTankWreck>1</VVE_BattleTankWreck><VVE_LightArmoredVehicleWreck>1</VVE_LightArmoredVehicleWreck><VVE_OffroadJeepWreck>1</VVE_OffroadJeepWreck><VVE_HelicopterWreck>1</VVE_HelicopterWreck><VVE_TruckWreck>1</VVE_TruckWreck><VVE_ArtilleryWreck>1</VVE_ArtilleryWreck><VVE_CargoHelicopterWreck>1</VVE_CargoHelicopterWreck><VVE_RefrigeratedTruckWreck>1</VVE_RefrigeratedTruckWreck><VVE_InfantryFightingVehicleWreck>1</VVE_InfantryFightingVehicleWreck></thingDefs><numberToSpawn>4</numberToSpawn><allowedRoads><li>AncientAsphaltHighway</li></allowedRoads><allowOnWater>false</allowOnWater></VFECore.ObjectSpawnsDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.TraderKindDef named COMIGO_GrimTrader (wanter=caravanTraderKinds) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.TraderKindDef named COMIGO_GrimTrader (wanter=caravanTraderKinds) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.TraderKindDef named COMIGO_GrimTrader (wanter=caravanTraderKinds) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.TraderKindDef named COMIGO_GrimTrader (wanter=caravanTraderKinds) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VVE_AllMaps_VehicleWrecks: [VEF] ObjectSpawnsDef VVE_AllMaps_VehicleWrecks contain null thing/pawnkind def. It will not work. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VVE_DirtPath_VehicleWrecks: [VEF] ObjectSpawnsDef VVE_DirtPath_VehicleWrecks contain null thing/pawnkind def. It will not work. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VVE_DirtRoad_VehicleWrecks: [VEF] ObjectSpawnsDef VVE_DirtRoad_VehicleWrecks contain null thing/pawnkind def. It will not work. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VVE_StoneRoad_VehicleWrecks: [VEF] ObjectSpawnsDef VVE_StoneRoad_VehicleWrecks contain null thing/pawnkind def. It will not work. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VVE_AncientAsphaltRoad_VehicleWrecks: [VEF] ObjectSpawnsDef VVE_AncientAsphaltRoad_VehicleWrecks contain null thing/pawnkind def. It will not work. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VVE_AncientAsphaltHighway_VehicleWrecks: [VEF] ObjectSpawnsDef VVE_AncientAsphaltHighway_VehicleWrecks contain null thing/pawnkind def. It will not work. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[VehicleFramework]</color> Importing additional assets from vehicleassets. UnityVersion=2019.4.30f1 Status: <color=#008000FF>successfully loaded.</color>
+Translation data for language English has 21 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[VehicleFramework]</color> version 1.5.1381 rev3980
+<color=orange>[VehicleFramework]</color> <color=#008000FF>167 patches successfully applied.</color>
+AlphaMemes Transpiler on Ideo:ExposeData could not find hook 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Clean Pathfinding] The following terrains apply to road attraction:
+ - hex carpet (black)
+ - morbid carpet (black)
+ - fine carpet (black)
+ - hex carpet (slate)
+ - morbid carpet (slate)
+ - fine carpet (slate)
+ - hex carpet (dark grey)
+ - morbid carpet (dark grey)
+ - fine carpet (dark grey)
+ - hex carpet (granite)
+ - morbid carpet (granite)
+ - fine carpet (granite)
+ - hex carpet (sandstone)
+ - morbid carpet (sandstone)
+ - fine carpet (sandstone)
+ - hex carpet (marble)
+ - morbid carpet (marble)
+ - fine carpet (marble)
+ - hex carpet (limestone)
+ - morbid carpet (limestone)
+ - fine carpet (limestone)
+ - hex carpet (light gray)
+ - morbid carpet (light gray)
+ - fine carpet (light gray)
+ - hex carpet (cream)
+ - morbid carpet (cream)
+ - fine carpet (cream)
+ - hex carpet (white)
+ - morbid carpet (white)
+ - fine carpet (white)
+ - hex carpet (pastel orange)
+ - morbid carpet (pastel orange)
+ - fine carpet (pastel orange)
+ - hex carpet (pastel yellow)
+ - morbid carpet (pastel yellow)
+ - fine carpet (pastel yellow)
+ - hex carpet (pastel green)
+ - morbid carpet (pastel green)
+ - fine carpet (pastel green)
+ - hex carpet (pastel blue)
+ - morbid carpet (pastel blue)
+ - fine carpet (pastel blue)
+ - hex carpet (pastel pink)
+ - morbid carpet (pastel pink)
+ - fine carpet (pastel pink)
+ - hex carpet (pastel red)
+ - morbid carpet (pastel red)
+ - fine carpet (pastel red)
+ - hex carpet (orange)
+ - morbid carpet (orange)
+ - fine carpet (orange)
+ - hex carpet (wood brown)
+ - morbid carpet (wood brown)
+ - fine carpet (wood brown)
+ - hex carpet (burnt umber)
+ - morbid carpet (burnt umber)
+ - fine carpet (burnt umber)
+ - hex carpet (dirt brown)
+ - morbid carpet (dirt brown)
+ - fine carpet (dirt brown)
+ - hex carpet (dark brown)
+ - morbid carpet (dark brown)
+ - fine carpet (dark brown)
+ - hex carpet (light brown)
+ - morbid carpet (light brown)
+ - fine carpet (light brown)
+ - hex carpet (subtle brown)
+ - morbid carpet (subtle brown)
+ - fine carpet (subtle brown)
+ - hex carpet (faded brown)
+ - morbid carpet (faded brown)
+ - fine carpet (faded brown)
+ - hex carpet (pale lime)
+ - morbid carpet (pale lime)
+ - fine carpet (pale lime)
+ - hex carpet (mustard)
+ - morbid carpet (mustard)
+ - fine carpet (mustard)
+ - hex carpet (dark olive)
+ - morbid carpet (dark olive)
+ - fine carpet (dark olive)
+ - hex carpet (olive)
+ - morbid carpet (olive)
+ - fine carpet (olive)
+ - hex carpet (subtle viridian)
+ - morbid carpet (subtle viridian)
+ - fine carpet (subtle viridian)
+ - hex carpet (viridian)
+ - morbid carpet (viridian)
+ - fine carpet (viridian)
+ - hex carpet (marsh green)
+ - morbid carpet (marsh green)
+ - fine carpet (marsh green)
+ - hex carpet (muddy green)
+ - morbid carpet (muddy green)
+ - fine carpet (muddy green)
+ - hex carpet (swamp green)
+ - morbid carpet (swamp green)
+ - fine carpet (swamp green)
+ - hex carpet (pine green)
+ - morbid carpet (pine green)
+ - fine carpet (pine green)
+ - hex carpet (forest green)
+ - morbid carpet (forest green)
+ - fine carpet (forest green)
+ - hex carpet (faded green)
+ - morbid carpet (faded green)
+ - fine carpet (faded green)
+ - hex carpet (sage)
+ - morbid carpet (sage)
+ - fine carpet (sage)
+ - hex carpet (green)
+ - morbid carpet (green)
+ - fine carpet (green)
+ - hex carpet (teal)
+ - morbid carpet (teal)
+ - fine carpet (teal)
+ - hex carpet (bright moss)
+ - morbid carpet (bright moss)
+ - fine carpet (bright moss)
+ - hex carpet (moss)
+ - morbid carpet (moss)
+ - fine carpet (moss)
+ - hex carpet (dusk)
+ - morbid carpet (dusk)
+ - fine carpet (dusk)
+ - hex carpet (sky blue)
+ - morbid carpet (sky blue)
+ - fine carpet (sky blue)
+ - hex carpet (marine)
+ - morbid carpet (marine)
+ - fine carpet (marine)
+ - hex carpet (ice blue)
+ - morbid carpet (ice blue)
+ - fine carpet (ice blue)
+ - hex carpet (subtle blue)
+ - morbid carpet (subtle blue)
+ - fine carpet (subtle blue)
+ - hex carpet (blue)
+ - morbid carpet (blue)
+ - fine carpet (blue)
+ - hex carpet (light indigo)
+ - morbid carpet (light indigo)
+ - fine carpet (light indigo)
+ - hex carpet (indigo)
+ - morbid carpet (indigo)
+ - fine carpet (indigo)
+ - hex carpet (grape)
+ - morbid carpet (grape)
+ - fine carpet (grape)
+ - hex carpet (deep purple)
+ - morbid carpet (deep purple)
+ - fine carpet (deep purple)
+ - hex carpet (muted purple)
+ - morbid carpet (muted purple)
+ - fine carpet (muted purple)
+ - hex carpet (subtle purple)
+ - morbid carpet (subtle purple)
+ - fine carpet (subtle purple)
+ - hex carpet (purple)
+ - morbid carpet (purple)
+ - fine carpet (purple)
+ - hex carpet (subtle magenta)
+ - morbid carpet (subtle magenta)
+ - fine carpet (subtle magenta)
+ - hex carpet (magenta)
+ - morbid carpet (magenta)
+ - fine carpet (magenta)
+ - hex carpet (dark mauve)
+ - morbid carpet (dark mauve)
+ - fine carpet (dark mauve)
+ - hex carpet (plum)
+ - morbid carpet (plum)
+ - fine carpet (plum)
+ - hex carpet (burgundy)
+ - morbid carpet (burgundy)
+ - fine carpet (burgundy)
+ - hex carpet (scarlet)
+ - morbid carpet (scarlet)
+ - fine carpet (scarlet)
+ - hex carpet (auburn)
+ - morbid carpet (auburn)
+ - fine carpet (auburn)
+ - hex carpet (subtle red)
+ - morbid carpet (subtle red)
+ - fine carpet (subtle red)
+ - hex carpet (red)
+ - morbid carpet (red)
+ - fine carpet (red)
+ - fine pristine limestone tile
+ - concrete foundation
+ - steel bridge
+ - marble bridge
+ - slate bridge
+ - limestone bridge
+ - granite bridge
+ - sandstone bridge
+ - pristine limestone flagstone
+ - pristine limestone tile
+ - futuristic kemetic tile
+ - kemetic fine pristine limestone tile
+ - kemetic fine marble tile
+ - kemetic fine slate tile
+ - kemetic fine limestone tile
+ - kemetic fine granite tile
+ - kemetic fine sandstone tile
+ - jewish fine marble tile
+ - jewish fine slate tile
+ - jewish fine limestone tile
+ - jewish fine granite tile
+ - jewish fine sandstone tile
+ - fine shintao white carpet
+ - fine shintao indigo carpet
+ - fine shintao burgundy carpet
+ - shintao fine marble tile
+ - shintao fine slate tile
+ - shintao fine limestone tile
+ - shintao fine granite tile
+ - shintao fine sandstone tile
+ - corporate fine marble tile
+ - corporate fine slate tile
+ - corporate fine limestone tile
+ - corporate fine granite tile
+ - corporate fine sandstone tile
+ - pool water
+ - hex tile
+ - yellow mindbend carpet
+ - blue mindbend carpet
+ - green mindbend carpet
+ - purple mindbend carpet
+ - diamond mindbend carpet
+ - totemic marble tile
+ - totemic slate tile
+ - totemic limestone tile
+ - totemic granite tile
+ - totemic sandstone tile
+ - totemic boards
+ - spikecore plates
+ - marble spikecore tile
+ - slate spikecore tile
+ - limestone spikecore tile
+ - granite spikecore tile
+ - sandstone spikecore tile
+ - morbid marble tile
+ - morbid slate tile
+ - morbid limestone tile
+ - morbid granite tile
+ - morbid sandstone tile
+ - fine marble tile
+ - fine slate tile
+ - fine limestone tile
+ - fine granite tile
+ - fine sandstone tile
+ - bridge
+ - packed dirt
+ - broken asphalt
+ - marble flagstone
+ - slate flagstone
+ - limestone flagstone
+ - granite flagstone
+ - sandstone flagstone
+ - marble tile
+ - slate tile
+ - limestone tile
+ - granite tile
+ - sandstone tile
+ - gold tile
+ - silver tile
+ - paved tile
+ - concrete
+LWM Update: stable(ish) 1.4
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, VCHE_ChemfuelTap, VCHE_ChemfuelDrain, VCHE_DeepchemTap, VCHE_DeepchemDrain, Shelf_WeaponRack, VFES_AmmoCrate, AG_AncientShelf, VFEA_SuperNaniteContainment into Deep Storage
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+Type FactionDialogFor probably needs a StaticConstructorOnStartup attribute, because it has a field insultTex of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MVCF successfully applied 45 patches
+[net.pardeike.rimworld.mods.achtung] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[UnlimitedHugs.HugsLib] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[OskarPotocki.VFECore] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.MapDeiniter.Deinit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.4.1240 initializing...
+updating labels for english...
+loading pawn slot content from file...
+character editor instance created
+allowing apparel to be colorable...
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.4.1240 ...done
+[HugsLib] initializing AlmostThere, RunAndGun, Hospitality, Therapy
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+547 default entities for genes created
+creating default parameter list for objects...
+3000 default entities for objects created
+creating default parameter list for turrets...
+39 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+no modifications for genes
+VAE_Apparel_Apron modification loaded
+no modifications for lifestages
+...done
+Curl error 42: Callback aborted
+(Filename:  Line: 853)
+
